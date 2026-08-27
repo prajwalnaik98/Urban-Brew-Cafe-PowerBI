@@ -1,0 +1,2011 @@
+Transaction_ID,Date,Outlet,Product_Category,Product_Name,Quantity,Unit_Price,Total_Amount,Customer_Type
+T100000,12/04/2024,south point,Snacks,Brownie,1,176.89,176.89,Regular
+T100001,21/02/2024,central,Snacks,Brownie,3,244.71,734.13,New
+T100002,02/04/2024,North Hub,Pastry,Danish,1,183.27,183.27,New
+T100003,15/01/2024,central,Sandwich,Cheese Sandwich,2,162.22,324.44,New
+T100004,16/04/2024,north hub,Tea,Black Tea,3,86.71,260.13,New
+T100005,12/03/2024,SOUTH POINT,Pastry,Muffin,2,81.06,162.12,Regular
+T100006,01/03/2024,Central,Snacks,Bagel,2,141.35,282.7,Regular
+T100007,21/01/2024,north hub,Pastry,Muffin,3,189.73,569.19,New
+T100008,12/04/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,309.84,309.84,Regular
+T100009,23/03/2024,Central,Tea,Masala Tea,2,295.59,591.18,New
+T100010,27/03/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,152.13,304.26,New
+T100011,15/03/2024,south point,Coffee,Americano,3,146.03,438.09,New
+T100012,15/03/2024,North Hub,Tea,Black Tea,3,141.38,424.14,New
+T100013,28/03/2024,north hub,Sandwich,Veg Sandwich,3,171.59,514.77,Regular
+T100014,26/04/2024,north hub,Snacks,Bagel,3,214.51,643.53,Regular
+T100015,09/04/2024,NORTH HUB,Tea,Black Tea,3,198.44,595.32,New
+T100016,13/04/2024,South Point,Tea,Green Tea,4,138.93,555.72,New
+T100017,24/01/2024,south point,Pastry,Muffin,3,115.22,345.66,Regular
+T100018,03/01/2024,south point,Snacks,Brownie,1,83.4,83.4,Regular
+T100019,22/01/2024,central,Coffee,Espresso,2,121.57,243.14,Regular
+T100020,22/02/2024,SOUTH POINT,Sandwich,Chicken Sandwich,1,270.45,270.45,New
+T100021,02/01/2024,South Point,Pastry,Danish,1,145.78,145.78,Regular
+T100022,28/03/2024,North Hub,Sandwich,Chicken Sandwich,4,206.52,826.08,New
+T100023,17/04/2024,North Hub,Coffee,Cappuccino,3,239.65,718.95,New
+T100024,30/01/2024,south point,Coffee,Cappuccino,2,319.45,638.9,Regular
+T100025,07/02/2024,North Hub,Tea,Masala Tea,1,319.99,319.99,New
+T100026,02/01/2024,NORTH HUB,Coffee,Espresso,3,281.35,844.05,Regular
+T100027,04/03/2024,north hub,Sandwich,Chicken Sandwich,3,89.49,268.47,New
+T100028,29/02/2024,CENTRAL,Snacks,Bagel,4,235.27,941.08,New
+T100029,21/01/2024,central,Snacks,Cookie,4,292.38,1169.52,New
+T100030,02/02/2024,SOUTH POINT,Tea,Masala Tea,4,84.67,338.68,New
+T100031,16/03/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,228.41,456.82,New
+T100032,27/02/2024,Central,Sandwich,Veg Sandwich,1,311.6,311.6,New
+T100033,22/01/2024,CENTRAL,Coffee,Latte,4,208.01,832.04,Regular
+T100034,17/04/2024,south point,Sandwich,Cheese Sandwich,4,81.11,324.44,Regular
+T100035,29/03/2024,NORTH HUB,Pastry,Danish,4,82.97,331.88,New
+T100036,18/02/2024,north hub,Coffee,Latte,1,192.49,192.49,Regular
+T100037,31/03/2024,north hub,Pastry,Croissant,1,121.85,121.85,New
+T100038,28/02/2024,NORTH HUB,Tea,Masala Tea,4,259.4,1037.6,Regular
+T100039,11/02/2024,South Point,Snacks,Brownie,4,271.38,1085.52,Regular
+T100040,01/04/2024,Central,Tea,Green Tea,3,128.03,384.09,New
+T100041,29/02/2024,SOUTH POINT,Snacks,Brownie,4,319.9,1279.6,Regular
+T100042,20/03/2024,CENTRAL,Tea,Green Tea,2,199.32,398.64,New
+T100043,15/01/2024,North Hub,Sandwich,Chicken Sandwich,2,118.57,237.14,Regular
+T100044,02/03/2024,Central,Pastry,Danish,4,286.35,1145.4,New
+T100045,02/03/2024,CENTRAL,Snacks,Bagel,1,293.29,293.29,Regular
+T100046,16/02/2024,central,Coffee,Americano,3,252.61,757.83,New
+T100047,02/03/2024,central,Pastry,Danish,1,310.44,310.44,Regular
+T100048,20/02/2024,Central,Coffee,Cappuccino,4,279.09,1116.36,New
+T100049,17/04/2024,south point,Pastry,Danish,2,318.2,636.4,Regular
+T100050,24/02/2024,CENTRAL,Pastry,Danish,3,197.15,591.45,New
+T100051,25/04/2024,CENTRAL,Tea,Masala Tea,1,281.85,281.85,Regular
+T100052,04/03/2024,NORTH HUB,Snacks,Brownie,1,349.93,349.93,New
+T100053,03/01/2024,south point,Snacks,Bagel,4,275.73,1102.92,Regular
+T100054,10/04/2024,SOUTH POINT,Pastry,Muffin,3,110.83,332.49,New
+T100055,20/02/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,219.95,439.9,New
+T100056,07/01/2024,North Hub,Sandwich,Cheese Sandwich,4,238.58,954.32,New
+T100057,21/01/2024,north hub,Coffee,Espresso,3,127.04,381.12,New
+T100058,13/03/2024,central,Coffee,Espresso,1,339.98,339.98,Regular
+T100059,08/02/2024,SOUTH POINT,Tea,Green Tea,4,127.41,509.64,Regular
+T100060,18/01/2024,south point,Pastry,Danish,1,127.94,127.94,Regular
+T100061,04/01/2024,CENTRAL,Coffee,Cappuccino,1,327.1,327.1,New
+T100062,29/03/2024,SOUTH POINT,Coffee,Cappuccino,4,205.61,822.44,New
+T100063,29/02/2024,CENTRAL,Pastry,Croissant,4,97.06,388.24,New
+T100064,14/01/2024,SOUTH POINT,Tea,Masala Tea,4,241.51,966.04,New
+T100065,23/04/2024,central,Coffee,Americano,4,242.49,969.96,New
+T100066,09/01/2024,SOUTH POINT,Tea,Black Tea,4,97.42,389.68,Regular
+T100067,30/03/2024,south point,Snacks,Bagel,1,342.58,342.58,Regular
+T100068,22/02/2024,SOUTH POINT,Tea,Black Tea,2,226.89,453.78,Regular
+T100069,02/01/2024,north hub,Sandwich,Chicken Sandwich,2,231.14,462.28,New
+T100070,24/03/2024,central,Sandwich,Cheese Sandwich,4,220.43,881.72,New
+T100071,01/04/2024,south point,Tea,Masala Tea,1,244.9,244.9,New
+T100072,20/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,151.36,302.72,New
+T100073,29/02/2024,south point,Snacks,Cookie,2,157.56,315.12,New
+T100074,11/03/2024,north hub,Pastry,Danish,2,218.06,436.12,New
+T100075,13/02/2024,central,Sandwich,Veg Sandwich,1,297.81,297.81,New
+T100076,08/01/2024,NORTH HUB,Sandwich,Veg Sandwich,4,93.46,373.84,Regular
+T100077,16/02/2024,north hub,Tea,Green Tea,4,242.92,971.68,Regular
+T100078,04/02/2024,north hub,Snacks,Brownie,4,297.83,1191.32,New
+T100079,18/03/2024,Central,Pastry,Danish,3,122.37,367.11,New
+T100080,21/03/2024,central,Tea,Green Tea,3,84.06,252.18,New
+T100081,05/02/2024,south point,Tea,Masala Tea,3,164.43,493.29,Regular
+T100082,19/02/2024,CENTRAL,Snacks,Brownie,1,238.8,238.8,Regular
+T100083,13/04/2024,CENTRAL,Pastry,Croissant,2,117.34,234.68,New
+T100084,04/01/2024,south point,Snacks,Brownie,2,195.05,390.1,Regular
+T100085,02/01/2024,south point,Pastry,Danish,1,229.13,229.13,Regular
+T100086,06/01/2024,central,Snacks,Brownie,1,241.7,241.7,Regular
+T100087,23/02/2024,south point,Tea,Masala Tea,4,154.09,616.36,New
+T100088,15/04/2024,Central,Tea,Green Tea,4,188.01,752.04,Regular
+T100089,04/01/2024,NORTH HUB,Coffee,Americano,3,290.15,870.45,Regular
+T100090,23/02/2024,south point,Sandwich,Veg Sandwich,3,334.13,1002.39,New
+T100091,02/04/2024,CENTRAL,Snacks,Brownie,1,312.71,312.71,New
+T100092,03/03/2024,south point,Coffee,Latte,3,232.36,697.08,Regular
+T100093,18/01/2024,Central,Sandwich,Veg Sandwich,2,190.78,381.56,New
+T100094,30/03/2024,SOUTH POINT,Snacks,Cookie,1,169.9,169.9,Regular
+T100095,13/02/2024,SOUTH POINT,Pastry,Muffin,1,113.74,113.74,Regular
+T100096,03/02/2024,north hub,Sandwich,Veg Sandwich,2,108.77,217.54,New
+T100097,14/03/2024,North Hub,Tea,Masala Tea,4,265.86,1063.44,New
+T100098,02/03/2024,NORTH HUB,Coffee,Cappuccino,4,150.14,600.56,Regular
+T100099,09/04/2024,South Point,Sandwich,Veg Sandwich,2,148.76,297.52,New
+T100100,14/01/2024,north hub,Sandwich,Veg Sandwich,2,349.51,699.02,New
+T100101,04/04/2024,SOUTH POINT,Tea,Masala Tea,3,130.74,392.22,Regular
+T100102,17/02/2024,CENTRAL,Snacks,Cookie,1,119.98,119.98,Regular
+T100103,15/01/2024,South Point,Pastry,Croissant,3,106.65,319.95,Regular
+T100104,12/03/2024,north hub,Tea,Black Tea,2,236.55,473.1,Regular
+T100105,18/03/2024,South Point,Pastry,Muffin,3,249.52,748.56,Regular
+T100106,27/03/2024,central,Snacks,Cookie,2,178.61,357.22,Regular
+T100107,02/03/2024,North Hub,Sandwich,Cheese Sandwich,3,224.56,673.68,New
+T100108,09/02/2024,central,Pastry,Danish,3,292.87,878.61,New
+T100109,25/03/2024,South Point,Coffee,Espresso,4,300.89,1203.56,Regular
+T100110,20/03/2024,central,Coffee,Cappuccino,2,338.64,677.28,New
+T100111,18/04/2024,Central,Tea,Green Tea,3,302.55,907.65,New
+T100112,22/03/2024,SOUTH POINT,Snacks,Bagel,1,232.51,232.51,Regular
+T100113,20/04/2024,Central,Tea,Masala Tea,3,128.51,385.53,New
+T100114,22/02/2024,south point,Tea,Green Tea,3,106.94,320.82,New
+T100115,24/01/2024,central,Tea,Green Tea,1,94.72,94.72,Regular
+T100116,26/01/2024,south point,Coffee,Americano,2,259.96,519.92,New
+T100117,29/03/2024,CENTRAL,Coffee,Espresso,4,298.03,1192.12,New
+T100118,29/02/2024,NORTH HUB,Tea,Black Tea,4,217.34,869.36,Regular
+T100119,18/04/2024,CENTRAL,Coffee,Latte,4,94.77,379.08,New
+T100120,10/02/2024,South Point,Snacks,Brownie,1,224.58,224.58,New
+T100121,29/01/2024,SOUTH POINT,Tea,Green Tea,3,332.65,997.95,New
+T100122,15/01/2024,central,Coffee,Espresso,2,241.36,482.72,Regular
+T100123,14/02/2024,north hub,Pastry,Croissant,3,298.55,895.65,Regular
+T100124,05/03/2024,NORTH HUB,Tea,Masala Tea,4,296.04,1184.16,New
+T100125,29/03/2024,North Hub,Tea,Black Tea,3,331.67,995.01,New
+T100126,11/03/2024,North Hub,Snacks,Cookie,1,287.96,287.96,Regular
+T100127,09/01/2024,North Hub,Sandwich,Veg Sandwich,1,281.88,281.88,Regular
+T100128,28/03/2024,central,Sandwich,Chicken Sandwich,2,143.21,286.42,New
+T100129,01/01/2024,North Hub,Snacks,Brownie,2,96.18,192.36,Regular
+T100130,17/04/2024,Central,Snacks,Bagel,4,219.75,879.0,New
+T100131,08/01/2024,NORTH HUB,Snacks,Bagel,2,113.6,227.2,New
+T100132,28/03/2024,Central,Sandwich,Cheese Sandwich,3,339.79,1019.37,Regular
+T100133,03/03/2024,NORTH HUB,Snacks,Brownie,1,158.28,158.28,Regular
+T100134,11/01/2024,Central,Coffee,Americano,1,310.29,310.29,New
+T100135,24/04/2024,NORTH HUB,Tea,Masala Tea,1,184.66,184.66,New
+T100136,21/03/2024,south point,Tea,Black Tea,2,167.26,334.52,Regular
+T100137,08/01/2024,central,Pastry,Croissant,1,332.49,332.49,New
+T100138,04/02/2024,central,Pastry,Croissant,1,178.1,178.1,Regular
+T100139,04/02/2024,North Hub,Tea,Masala Tea,1,185.38,185.38,Regular
+T100140,02/02/2024,CENTRAL,Coffee,Cappuccino,4,108.64,434.56,Regular
+T100141,05/01/2024,North Hub,Sandwich,Veg Sandwich,4,261.02,1044.08,Regular
+T100142,15/04/2024,South Point,Sandwich,Chicken Sandwich,2,157.99,315.98,Regular
+T100143,12/04/2024,Central,Coffee,Americano,1,238.11,238.11,New
+T100144,10/02/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,239.66,479.32,Regular
+T100145,28/01/2024,CENTRAL,Snacks,Cookie,1,274.18,274.18,Regular
+T100146,07/01/2024,South Point,Tea,Masala Tea,1,281.22,281.22,Regular
+T100147,13/03/2024,central,Tea,Green Tea,1,218.9,218.9,Regular
+T100148,12/03/2024,central,Coffee,Espresso,2,169.37,338.74,Regular
+T100149,12/01/2024,North Hub,Sandwich,Veg Sandwich,2,306.11,612.22,Regular
+T100150,03/02/2024,Central,Pastry,Muffin,1,163.66,163.66,Regular
+T100151,02/02/2024,CENTRAL,Pastry,Croissant,3,217.03,651.09,New
+T100152,17/02/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,188.34,376.68,New
+T100153,28/04/2024,South Point,Pastry,Muffin,4,310.87,1243.48,New
+T100154,23/01/2024,South Point,Coffee,Americano,2,196.62,393.24,New
+T100155,02/03/2024,North Hub,Coffee,Espresso,1,184.25,184.25,Regular
+T100156,28/03/2024,central,Sandwich,Cheese Sandwich,3,266.25,798.75,New
+T100157,06/02/2024,North Hub,Pastry,Danish,1,242.66,242.66,Regular
+T100158,08/04/2024,NORTH HUB,Coffee,Cappuccino,4,108.96,435.84,New
+T100159,13/02/2024,CENTRAL,Coffee,Latte,2,217.21,434.42,New
+T100160,13/04/2024,Central,Snacks,Cookie,2,278.58,557.16,Regular
+T100161,26/03/2024,south point,Snacks,Cookie,1,347.86,347.86,Regular
+T100162,31/03/2024,north hub,Coffee,Espresso,1,249.87,249.87,New
+T100163,04/02/2024,north hub,Sandwich,Chicken Sandwich,4,179.98,719.92,New
+T100164,05/03/2024,North Hub,Tea,Green Tea,3,141.06,423.18,New
+T100165,08/04/2024,NORTH HUB,Tea,Green Tea,4,315.66,1262.64,New
+T100166,10/04/2024,CENTRAL,Coffee,Cappuccino,3,299.93,899.79,Regular
+T100167,16/02/2024,SOUTH POINT,Coffee,Cappuccino,2,143.16,286.32,New
+T100168,18/03/2024,north hub,Coffee,Americano,3,134.17,402.51,New
+T100169,03/01/2024,CENTRAL,Sandwich,Cheese Sandwich,3,273.09,819.27,New
+T100170,01/01/2024,Central,Snacks,Brownie,2,165.04,330.08,New
+T100171,05/01/2024,NORTH HUB,Coffee,Espresso,2,162.73,325.46,New
+T100172,30/03/2024,central,Coffee,Espresso,2,121.12,242.24,Regular
+T100173,28/04/2024,CENTRAL,Pastry,Muffin,4,151.27,605.08,Regular
+T100174,14/01/2024,Central,Sandwich,Veg Sandwich,2,195.43,390.86,Regular
+T100175,12/04/2024,SOUTH POINT,Coffee,Americano,1,277.87,277.87,Regular
+T100176,27/01/2024,south point,Pastry,Danish,2,170.8,341.6,Regular
+T100177,09/01/2024,central,Tea,Black Tea,2,168.72,337.44,New
+T100178,19/03/2024,south point,Coffee,Espresso,2,156.93,313.86,Regular
+T100179,15/01/2024,SOUTH POINT,Coffee,Americano,3,209.14,627.42,Regular
+T100180,30/03/2024,Central,Pastry,Croissant,4,128.77,515.08,New
+T100181,11/02/2024,north hub,Sandwich,Cheese Sandwich,2,211.12,422.24,Regular
+T100182,17/03/2024,south point,Coffee,Espresso,4,270.13,1080.52,Regular
+T100183,20/02/2024,central,Tea,Black Tea,1,88.04,88.04,Regular
+T100184,03/03/2024,North Hub,Coffee,Latte,1,82.64,82.64,Regular
+T100185,05/04/2024,South Point,Tea,Black Tea,2,100.28,200.56,New
+T100186,12/04/2024,CENTRAL,Snacks,Cookie,1,224.63,224.63,New
+T100187,22/04/2024,north hub,Snacks,Brownie,4,310.7,1242.8,Regular
+T100188,21/02/2024,south point,Tea,Green Tea,3,81.32,243.96,New
+T100189,05/04/2024,CENTRAL,Sandwich,Chicken Sandwich,2,332.9,665.8,Regular
+T100190,04/01/2024,North Hub,Coffee,Espresso,1,108.7,108.7,New
+T100191,03/04/2024,SOUTH POINT,Coffee,Latte,4,307.34,1229.36,New
+T100192,10/04/2024,South Point,Snacks,Brownie,4,210.37,841.48,New
+T100193,23/01/2024,Central,Tea,Black Tea,1,258.03,258.03,New
+T100194,12/04/2024,North Hub,Coffee,Espresso,4,217.88,871.52,New
+T100195,18/04/2024,North Hub,Coffee,Americano,4,208.8,835.2,New
+T100196,15/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,305.42,610.84,New
+T100197,12/02/2024,NORTH HUB,Pastry,Danish,4,284.09,1136.36,New
+T100198,29/01/2024,SOUTH POINT,Snacks,Cookie,1,210.52,210.52,New
+T100199,05/02/2024,NORTH HUB,Snacks,Brownie,2,110.14,220.28,New
+T100200,13/01/2024,NORTH HUB,Pastry,Muffin,1,111.16,111.16,New
+T100201,01/02/2024,north hub,Coffee,Espresso,3,296.42,889.26,Regular
+T100202,11/03/2024,north hub,Sandwich,Cheese Sandwich,1,222.94,222.94,New
+T100203,28/02/2024,central,Sandwich,Cheese Sandwich,1,210.03,210.03,Regular
+T100204,24/04/2024,south point,Snacks,Brownie,2,263.75,527.5,New
+T100205,26/03/2024,south point,Sandwich,Veg Sandwich,4,311.89,1247.56,Regular
+T100206,28/01/2024,Central,Pastry,Muffin,1,249.8,249.8,Regular
+T100207,06/03/2024,south point,Coffee,Espresso,2,285.97,571.94,Regular
+T100208,11/02/2024,north hub,Pastry,Croissant,3,286.62,859.86,New
+T100209,14/02/2024,central,Tea,Green Tea,2,176.19,352.38,New
+T100210,02/03/2024,central,Snacks,Cookie,2,154.0,308.0,New
+T100211,26/02/2024,NORTH HUB,Sandwich,Veg Sandwich,4,296.31,1185.24,New
+T100212,26/04/2024,SOUTH POINT,Tea,Black Tea,1,181.84,181.84,Regular
+T100213,06/01/2024,Central,Sandwich,Chicken Sandwich,3,323.9,971.7,New
+T100214,28/01/2024,NORTH HUB,Coffee,Latte,2,98.82,197.64,New
+T100215,28/01/2024,SOUTH POINT,Coffee,Americano,1,95.72,95.72,New
+T100216,17/04/2024,south point,Coffee,Americano,1,330.29,330.29,New
+T100217,13/02/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,255.08,510.16,New
+T100218,24/03/2024,CENTRAL,Tea,Black Tea,1,182.49,182.49,New
+T100219,30/01/2024,south point,Coffee,Americano,2,283.87,567.74,New
+T100220,02/03/2024,SOUTH POINT,Tea,Black Tea,2,261.53,523.06,New
+T100221,15/03/2024,Central,Sandwich,Veg Sandwich,2,223.42,446.84,Regular
+T100222,28/04/2024,SOUTH POINT,Tea,Black Tea,3,106.7,320.1,Regular
+T100223,01/04/2024,NORTH HUB,Sandwich,Veg Sandwich,2,299.29,598.58,New
+T100224,29/03/2024,NORTH HUB,Sandwich,Chicken Sandwich,4,313.83,1255.32,New
+T100225,12/04/2024,North Hub,Snacks,Cookie,1,126.49,126.49,New
+T100226,02/03/2024,Central,Sandwich,Cheese Sandwich,3,309.64,928.92,New
+T100227,06/04/2024,south point,Sandwich,Veg Sandwich,1,317.02,317.02,Regular
+T100228,01/01/2024,central,Pastry,Danish,3,228.35,685.05,Regular
+T100229,27/01/2024,Central,Coffee,Cappuccino,4,257.17,1028.68,New
+T100230,02/03/2024,central,Snacks,Brownie,3,183.2,549.6,Regular
+T100231,25/04/2024,Central,Snacks,Bagel,3,156.08,468.24,Regular
+T100232,17/03/2024,Central,Snacks,Cookie,3,274.94,824.82,New
+T100233,14/04/2024,SOUTH POINT,Pastry,Danish,1,312.71,312.71,New
+T100234,03/01/2024,Central,Sandwich,Veg Sandwich,2,256.6,513.2,New
+T100235,12/04/2024,North Hub,Coffee,Espresso,1,218.13,218.13,Regular
+T100236,10/03/2024,NORTH HUB,Tea,Masala Tea,2,122.91,245.82,Regular
+T100237,12/03/2024,South Point,Sandwich,Veg Sandwich,1,94.43,94.43,New
+T100238,27/01/2024,central,Pastry,Croissant,4,200.34,801.36,New
+T100239,09/01/2024,NORTH HUB,Sandwich,Chicken Sandwich,4,93.32,373.28,Regular
+T100240,02/03/2024,South Point,Sandwich,Cheese Sandwich,3,233.72,701.16,Regular
+T100241,06/02/2024,central,Pastry,Muffin,4,183.34,733.36,New
+T100242,06/04/2024,central,Snacks,Bagel,3,284.44,853.32,Regular
+T100243,20/02/2024,South Point,Snacks,Cookie,2,162.53,325.06,New
+T100244,15/04/2024,Central,Coffee,Cappuccino,4,240.11,960.44,New
+T100245,13/02/2024,south point,Coffee,Latte,2,225.17,450.34,Regular
+T100246,24/01/2024,CENTRAL,Snacks,Bagel,1,81.27,81.27,Regular
+T100247,19/03/2024,NORTH HUB,Tea,Masala Tea,2,99.55,199.1,Regular
+T100248,28/02/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,158.4,158.4,New
+T100249,27/04/2024,NORTH HUB,Tea,Masala Tea,2,318.2,636.4,New
+T100250,01/02/2024,SOUTH POINT,Sandwich,Veg Sandwich,2,119.69,239.38,New
+T100251,05/04/2024,South Point,Snacks,Bagel,4,271.94,1087.76,New
+T100252,28/03/2024,SOUTH POINT,Coffee,Latte,2,342.81,685.62,New
+T100253,14/04/2024,central,Coffee,Cappuccino,4,293.45,1173.8,New
+T100254,21/02/2024,south point,Tea,Black Tea,4,145.6,582.4,Regular
+T100255,22/04/2024,south point,Coffee,Latte,3,325.26,975.78,New
+T100256,02/03/2024,central,Snacks,Bagel,3,105.14,315.42,New
+T100257,22/04/2024,North Hub,Tea,Masala Tea,1,206.4,206.4,New
+T100258,27/02/2024,South Point,Sandwich,Veg Sandwich,2,319.64,639.28,New
+T100259,21/02/2024,North Hub,Coffee,Americano,1,253.14,253.14,Regular
+T100260,12/01/2024,North Hub,Pastry,Danish,2,191.68,383.36,New
+T100261,08/02/2024,NORTH HUB,Coffee,Espresso,3,159.06,477.18,Regular
+T100262,02/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,3,181.28,543.84,Regular
+T100263,03/01/2024,CENTRAL,Tea,Black Tea,2,217.41,434.82,New
+T100264,22/04/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,166.14,332.28,New
+T100265,10/04/2024,central,Pastry,Muffin,3,341.62,1024.86,Regular
+T100266,22/04/2024,NORTH HUB,Snacks,Brownie,3,331.93,995.79,Regular
+T100267,25/02/2024,South Point,Coffee,Cappuccino,1,315.08,315.08,New
+T100268,21/03/2024,SOUTH POINT,Tea,Masala Tea,3,193.89,581.67,Regular
+T100269,28/02/2024,CENTRAL,Snacks,Bagel,2,266.65,533.3,New
+T100270,22/04/2024,CENTRAL,Sandwich,Chicken Sandwich,1,323.76,323.76,New
+T100271,02/01/2024,South Point,Tea,Black Tea,2,309.62,619.24,Regular
+T100272,02/01/2024,North Hub,Snacks,Brownie,4,191.87,767.48,New
+T100273,01/04/2024,south point,Tea,Green Tea,1,110.34,110.34,New
+T100274,23/02/2024,South Point,Pastry,Danish,2,100.42,200.84,New
+T100275,27/03/2024,north hub,Pastry,Muffin,3,235.81,707.43,Regular
+T100276,10/04/2024,South Point,Coffee,Americano,4,253.51,1014.04,Regular
+T100277,05/04/2024,CENTRAL,Coffee,Cappuccino,2,309.46,618.92,Regular
+T100278,06/04/2024,central,Pastry,Muffin,1,158.98,158.98,New
+T100279,01/01/2024,NORTH HUB,Tea,Black Tea,2,125.22,250.44,Regular
+T100280,19/01/2024,central,Pastry,Muffin,4,182.33,729.32,Regular
+T100281,02/01/2024,CENTRAL,Coffee,Espresso,1,175.47,175.47,Regular
+T100282,22/02/2024,NORTH HUB,Pastry,Danish,4,115.77,463.08,New
+T100283,13/02/2024,north hub,Pastry,Croissant,2,261.52,523.04,New
+T100284,30/03/2024,south point,Tea,Green Tea,3,217.35,652.05,Regular
+T100285,01/02/2024,SOUTH POINT,Snacks,Bagel,3,274.7,824.1,Regular
+T100286,10/03/2024,CENTRAL,Coffee,Cappuccino,2,175.23,350.46,Regular
+T100287,01/02/2024,CENTRAL,Tea,Masala Tea,2,167.94,335.88,New
+T100288,28/04/2024,CENTRAL,Pastry,Muffin,2,207.6,415.2,Regular
+T100289,08/03/2024,NORTH HUB,Pastry,Croissant,1,316.9,316.9,New
+T100290,24/02/2024,Central,Snacks,Cookie,4,90.88,363.52,New
+T100291,15/03/2024,South Point,Coffee,Americano,4,297.3,1189.2,New
+T100292,25/02/2024,Central,Coffee,Latte,4,179.63,718.52,Regular
+T100293,17/01/2024,north hub,Sandwich,Cheese Sandwich,2,310.75,621.5,Regular
+T100294,07/02/2024,south point,Coffee,Latte,4,296.59,1186.36,New
+T100295,24/01/2024,North Hub,Snacks,Brownie,2,174.17,348.34,New
+T100296,09/03/2024,north hub,Sandwich,Chicken Sandwich,1,267.35,267.35,New
+T100297,25/04/2024,North Hub,Sandwich,Veg Sandwich,3,123.1,369.3,New
+T100298,07/04/2024,North Hub,Pastry,Danish,2,322.0,644.0,Regular
+T100299,10/03/2024,south point,Pastry,Croissant,2,189.21,378.42,Regular
+T100300,26/03/2024,central,Coffee,Latte,3,203.02,609.06,New
+T100301,11/01/2024,Central,Sandwich,Cheese Sandwich,3,270.55,811.65,New
+T100302,21/04/2024,CENTRAL,Pastry,Muffin,1,301.63,301.63,New
+T100303,16/01/2024,SOUTH POINT,Snacks,Bagel,4,143.81,575.24,Regular
+T100304,06/04/2024,North Hub,Pastry,Danish,2,258.56,517.12,New
+T100305,13/03/2024,north hub,Pastry,Muffin,4,185.84,743.36,Regular
+T100306,28/02/2024,central,Sandwich,Chicken Sandwich,2,179.55,359.1,New
+T100307,10/03/2024,North Hub,Sandwich,Cheese Sandwich,1,266.31,266.31,Regular
+T100308,20/03/2024,central,Tea,Black Tea,3,184.54,553.62,Regular
+T100309,02/04/2024,central,Snacks,Cookie,1,173.45,173.45,New
+T100310,03/01/2024,North Hub,Sandwich,Veg Sandwich,3,305.69,917.07,Regular
+T100311,20/01/2024,NORTH HUB,Coffee,Latte,4,107.34,429.36,Regular
+T100312,28/02/2024,South Point,Snacks,Bagel,4,262.49,1049.96,Regular
+T100313,05/02/2024,CENTRAL,Snacks,Cookie,1,147.16,147.16,Regular
+T100314,19/01/2024,CENTRAL,Sandwich,Veg Sandwich,3,84.18,252.54,New
+T100315,30/03/2024,NORTH HUB,Snacks,Cookie,1,125.03,125.03,New
+T100316,07/03/2024,CENTRAL,Sandwich,Cheese Sandwich,3,243.8,731.4,New
+T100317,19/01/2024,central,Pastry,Muffin,3,271.46,814.38,New
+T100318,20/01/2024,south point,Tea,Black Tea,4,85.69,342.76,New
+T100319,05/04/2024,north hub,Pastry,Danish,4,89.83,359.32,Regular
+T100320,11/03/2024,Central,Sandwich,Chicken Sandwich,3,323.69,971.07,Regular
+T100321,21/02/2024,CENTRAL,Sandwich,Cheese Sandwich,3,99.79,299.37,Regular
+T100322,14/04/2024,south point,Pastry,Danish,3,321.43,964.29,Regular
+T100323,02/02/2024,North Hub,Coffee,Espresso,4,141.6,566.4,New
+T100324,09/02/2024,South Point,Coffee,Espresso,4,279.8,1119.2,New
+T100325,08/02/2024,central,Coffee,Espresso,2,163.63,327.26,Regular
+T100326,22/03/2024,South Point,Sandwich,Veg Sandwich,3,311.86,935.58,New
+T100327,13/04/2024,north hub,Snacks,Bagel,2,269.12,538.24,Regular
+T100328,01/01/2024,north hub,Sandwich,Chicken Sandwich,3,188.49,565.47,Regular
+T100329,11/01/2024,NORTH HUB,Snacks,Bagel,4,100.6,402.4,New
+T100330,01/04/2024,SOUTH POINT,Pastry,Danish,2,277.83,555.66,New
+T100331,26/02/2024,NORTH HUB,Tea,Black Tea,2,246.56,493.12,New
+T100332,29/03/2024,south point,Snacks,Cookie,1,80.79,80.79,New
+T100333,19/02/2024,South Point,Coffee,Espresso,3,82.54,247.62,New
+T100334,23/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,4,298.37,1193.48,New
+T100335,31/01/2024,North Hub,Pastry,Danish,1,150.04,150.04,New
+T100336,03/04/2024,central,Coffee,Espresso,1,251.76,251.76,Regular
+T100337,11/02/2024,South Point,Pastry,Danish,3,202.64,607.92,New
+T100338,08/04/2024,NORTH HUB,Tea,Masala Tea,1,313.13,313.13,Regular
+T100339,07/01/2024,Central,Sandwich,Cheese Sandwich,3,327.58,982.74,Regular
+T100340,16/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,349.14,349.14,New
+T100341,30/03/2024,SOUTH POINT,Tea,Green Tea,3,121.49,364.47,Regular
+T100342,21/04/2024,central,Sandwich,Cheese Sandwich,4,313.0,1252.0,New
+T100343,25/04/2024,CENTRAL,Snacks,Bagel,3,151.83,455.49,Regular
+T100344,29/02/2024,north hub,Pastry,Muffin,3,239.52,718.56,Regular
+T100345,22/04/2024,north hub,Coffee,Espresso,2,216.56,433.12,Regular
+T100346,02/01/2024,Central,Tea,Green Tea,4,84.86,339.44,New
+T100347,01/01/2024,south point,Snacks,Cookie,4,331.85,1327.4,Regular
+T100348,17/02/2024,south point,Coffee,Cappuccino,4,101.15,404.6,Regular
+T100349,12/01/2024,North Hub,Coffee,Americano,1,265.82,265.82,Regular
+T100350,09/03/2024,South Point,Tea,Green Tea,2,291.95,583.9,New
+T100351,06/02/2024,CENTRAL,Snacks,Brownie,4,294.73,1178.92,Regular
+T100352,01/02/2024,NORTH HUB,Coffee,Cappuccino,1,116.58,116.58,New
+T100353,28/04/2024,SOUTH POINT,Coffee,Cappuccino,1,200.84,200.84,Regular
+T100354,09/01/2024,Central,Snacks,Brownie,1,303.95,303.95,Regular
+T100355,14/04/2024,north hub,Sandwich,Cheese Sandwich,2,161.72,323.44,Regular
+T100356,08/04/2024,North Hub,Coffee,Americano,1,206.29,206.29,New
+T100357,19/01/2024,south point,Pastry,Croissant,2,153.65,307.3,Regular
+T100358,17/02/2024,Central,Snacks,Bagel,3,205.16,615.48,Regular
+T100359,20/03/2024,SOUTH POINT,Coffee,Americano,1,319.72,319.72,Regular
+T100360,03/01/2024,NORTH HUB,Tea,Black Tea,4,202.88,811.52,Regular
+T100361,20/01/2024,North Hub,Pastry,Muffin,1,230.1,230.1,New
+T100362,24/01/2024,SOUTH POINT,Coffee,Cappuccino,3,189.07,567.21,Regular
+T100363,23/02/2024,north hub,Pastry,Muffin,3,204.23,612.69,Regular
+T100364,29/04/2024,north hub,Pastry,Danish,1,84.1,84.1,Regular
+T100365,02/02/2024,north hub,Sandwich,Veg Sandwich,3,156.61,469.83,Regular
+T100366,24/01/2024,Central,Pastry,Croissant,2,197.88,395.76,New
+T100367,25/04/2024,Central,Sandwich,Cheese Sandwich,2,251.13,502.26,Regular
+T100368,15/03/2024,south point,Snacks,Bagel,1,201.51,201.51,Regular
+T100369,22/04/2024,south point,Sandwich,Veg Sandwich,2,171.21,342.42,New
+T100370,12/03/2024,NORTH HUB,Tea,Black Tea,2,184.79,369.58,Regular
+T100371,05/02/2024,North Hub,Coffee,Latte,4,145.42,581.68,Regular
+T100372,07/02/2024,central,Snacks,Cookie,1,329.61,329.61,Regular
+T100373,13/04/2024,central,Snacks,Cookie,3,220.87,662.61,New
+T100374,24/03/2024,SOUTH POINT,Tea,Masala Tea,1,83.62,83.62,Regular
+T100375,08/04/2024,north hub,Sandwich,Chicken Sandwich,2,85.25,170.5,New
+T100376,21/04/2024,North Hub,Coffee,Cappuccino,4,342.7,1370.8,New
+T100377,29/03/2024,Central,Sandwich,Cheese Sandwich,1,139.79,139.79,New
+T100378,08/04/2024,South Point,Pastry,Muffin,1,297.51,297.51,New
+T100379,25/01/2024,CENTRAL,Sandwich,Cheese Sandwich,2,95.73,191.46,New
+T100380,02/04/2024,NORTH HUB,Snacks,Bagel,2,328.71,657.42,New
+T100381,18/01/2024,north hub,Coffee,Latte,1,316.09,316.09,New
+T100382,19/04/2024,north hub,Sandwich,Cheese Sandwich,2,234.2,468.4,Regular
+T100383,22/03/2024,north hub,Coffee,Americano,2,82.43,164.86,Regular
+T100384,06/03/2024,Central,Coffee,Cappuccino,2,149.61,299.22,New
+T100385,23/02/2024,Central,Pastry,Danish,2,189.84,379.68,New
+T100386,04/02/2024,CENTRAL,Pastry,Muffin,2,204.22,408.44,New
+T100387,20/03/2024,North Hub,Snacks,Bagel,4,160.37,641.48,New
+T100388,01/03/2024,north hub,Tea,Green Tea,2,88.9,177.8,New
+T100389,10/02/2024,central,Coffee,Espresso,3,239.33,717.99,New
+T100390,09/04/2024,south point,Tea,Masala Tea,1,221.52,221.52,Regular
+T100391,02/02/2024,central,Snacks,Brownie,4,156.41,625.64,Regular
+T100392,08/03/2024,SOUTH POINT,Coffee,Americano,4,90.25,361.0,New
+T100393,02/02/2024,central,Coffee,Americano,2,348.54,697.08,New
+T100394,14/01/2024,SOUTH POINT,Tea,Masala Tea,1,210.14,210.14,New
+T100395,21/01/2024,South Point,Sandwich,Veg Sandwich,3,284.12,852.36,Regular
+T100396,17/02/2024,south point,Pastry,Croissant,2,202.12,404.24,New
+T100397,20/01/2024,central,Sandwich,Veg Sandwich,1,91.66,91.66,Regular
+T100398,29/04/2024,South Point,Tea,Masala Tea,2,163.59,327.18,Regular
+T100399,08/01/2024,NORTH HUB,Pastry,Muffin,2,166.43,332.86,Regular
+T100400,07/01/2024,North Hub,Sandwich,Cheese Sandwich,2,306.36,612.72,New
+T100401,07/03/2024,South Point,Pastry,Muffin,2,256.64,513.28,New
+T100402,17/01/2024,North Hub,Coffee,Espresso,2,154.37,308.74,Regular
+T100403,02/02/2024,central,Sandwich,Veg Sandwich,2,341.29,682.58,Regular
+T100404,17/02/2024,South Point,Pastry,Muffin,2,166.82,333.64,Regular
+T100405,16/03/2024,south point,Pastry,Muffin,3,349.52,1048.56,Regular
+T100406,28/02/2024,central,Pastry,Muffin,4,348.96,1395.84,New
+T100407,24/04/2024,north hub,Sandwich,Cheese Sandwich,3,131.63,394.89,Regular
+T100408,26/03/2024,Central,Snacks,Brownie,2,164.44,328.88,New
+T100409,28/04/2024,South Point,Sandwich,Cheese Sandwich,2,211.23,422.46,Regular
+T100410,22/01/2024,south point,Tea,Black Tea,3,259.31,777.93,New
+T100411,19/04/2024,NORTH HUB,Sandwich,Veg Sandwich,3,222.57,667.71,Regular
+T100412,30/01/2024,north hub,Pastry,Croissant,4,341.75,1367.0,New
+T100413,07/02/2024,NORTH HUB,Coffee,Latte,3,275.48,826.44,New
+T100414,11/04/2024,central,Sandwich,Chicken Sandwich,4,137.25,549.0,New
+T100415,18/04/2024,Central,Sandwich,Cheese Sandwich,2,108.38,216.76,Regular
+T100416,20/02/2024,South Point,Pastry,Muffin,1,265.87,265.87,New
+T100417,23/02/2024,South Point,Coffee,Latte,1,122.78,122.78,Regular
+T100418,08/01/2024,central,Coffee,Espresso,1,292.67,292.67,New
+T100419,27/01/2024,central,Tea,Green Tea,1,163.98,163.98,New
+T100420,27/01/2024,Central,Sandwich,Chicken Sandwich,2,168.26,336.52,Regular
+T100421,07/04/2024,south point,Coffee,Espresso,1,82.92,82.92,New
+T100422,21/01/2024,south point,Coffee,Americano,3,269.27,807.81,New
+T100423,30/01/2024,Central,Snacks,Cookie,3,110.58,331.74,Regular
+T100424,06/04/2024,south point,Snacks,Brownie,1,288.68,288.68,New
+T100425,28/01/2024,SOUTH POINT,Coffee,Americano,3,212.8,638.4,New
+T100426,20/04/2024,North Hub,Tea,Green Tea,4,291.76,1167.04,New
+T100427,04/03/2024,Central,Coffee,Espresso,2,237.66,475.32,New
+T100428,06/04/2024,Central,Pastry,Croissant,1,102.26,102.26,Regular
+T100429,09/03/2024,CENTRAL,Sandwich,Chicken Sandwich,1,286.73,286.73,New
+T100430,01/03/2024,north hub,Tea,Black Tea,2,98.85,197.7,New
+T100431,17/02/2024,north hub,Pastry,Croissant,3,209.25,627.75,New
+T100432,19/01/2024,SOUTH POINT,Tea,Masala Tea,2,126.53,253.06,New
+T100433,04/01/2024,central,Pastry,Muffin,2,283.13,566.26,New
+T100434,04/02/2024,central,Sandwich,Veg Sandwich,3,326.13,978.39,New
+T100435,04/03/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,229.61,459.22,New
+T100436,18/02/2024,SOUTH POINT,Snacks,Brownie,3,222.33,666.99,New
+T100437,17/01/2024,Central,Pastry,Muffin,3,286.27,858.81,Regular
+T100438,13/02/2024,SOUTH POINT,Snacks,Bagel,2,81.37,162.74,Regular
+T100439,01/04/2024,SOUTH POINT,Pastry,Muffin,4,327.79,1311.16,Regular
+T100440,30/01/2024,SOUTH POINT,Snacks,Brownie,3,133.31,399.93,Regular
+T100441,02/04/2024,north hub,Sandwich,Cheese Sandwich,2,345.71,691.42,New
+T100442,15/02/2024,SOUTH POINT,Tea,Masala Tea,3,278.79,836.37,New
+T100443,26/04/2024,North Hub,Snacks,Cookie,4,289.05,1156.2,Regular
+T100444,06/01/2024,central,Pastry,Muffin,4,257.17,1028.68,Regular
+T100445,08/04/2024,NORTH HUB,Pastry,Croissant,1,207.35,207.35,Regular
+T100446,14/04/2024,North Hub,Sandwich,Cheese Sandwich,3,234.34,703.02,New
+T100447,06/02/2024,NORTH HUB,Pastry,Croissant,3,92.53,277.59,New
+T100448,24/01/2024,CENTRAL,Coffee,Espresso,2,248.47,496.94,Regular
+T100449,02/04/2024,NORTH HUB,Tea,Green Tea,3,249.05,747.15,Regular
+T100450,22/04/2024,central,Snacks,Bagel,1,320.62,320.62,Regular
+T100451,15/02/2024,central,Tea,Green Tea,4,216.53,866.12,Regular
+T100452,22/02/2024,SOUTH POINT,Sandwich,Veg Sandwich,4,100.83,403.32,Regular
+T100453,04/04/2024,South Point,Snacks,Brownie,1,162.67,162.67,New
+T100454,08/04/2024,CENTRAL,Snacks,Brownie,3,257.02,771.06,Regular
+T100455,29/02/2024,Central,Coffee,Latte,3,144.6,433.8,New
+T100456,06/04/2024,south point,Sandwich,Veg Sandwich,1,155.74,155.74,Regular
+T100457,25/04/2024,NORTH HUB,Pastry,Muffin,2,301.53,603.06,Regular
+T100458,03/03/2024,South Point,Coffee,Espresso,4,237.77,951.08,New
+T100459,25/03/2024,SOUTH POINT,Coffee,Cappuccino,1,217.3,217.3,Regular
+T100460,01/02/2024,north hub,Tea,Masala Tea,1,165.98,165.98,New
+T100461,27/03/2024,Central,Tea,Masala Tea,3,277.35,832.05,New
+T100462,02/02/2024,South Point,Tea,Masala Tea,4,157.68,630.72,Regular
+T100463,07/03/2024,north hub,Coffee,Latte,3,279.01,837.03,Regular
+T100464,18/01/2024,CENTRAL,Pastry,Danish,1,98.93,98.93,New
+T100465,25/01/2024,SOUTH POINT,Snacks,Brownie,2,313.43,626.86,New
+T100466,15/04/2024,Central,Tea,Masala Tea,4,214.88,859.52,Regular
+T100467,04/04/2024,Central,Pastry,Danish,1,198.4,198.4,New
+T100468,23/02/2024,Central,Sandwich,Chicken Sandwich,1,244.98,244.98,Regular
+T100469,27/02/2024,CENTRAL,Tea,Green Tea,2,248.53,497.06,New
+T100470,07/03/2024,NORTH HUB,Snacks,Cookie,1,115.65,115.65,Regular
+T100471,13/04/2024,CENTRAL,Sandwich,Cheese Sandwich,1,284.18,284.18,New
+T100472,15/02/2024,south point,Sandwich,Veg Sandwich,4,154.5,618.0,New
+T100473,24/01/2024,central,Snacks,Bagel,4,324.34,1297.36,Regular
+T100474,23/04/2024,SOUTH POINT,Tea,Green Tea,4,300.82,1203.28,New
+T100475,01/02/2024,CENTRAL,Coffee,Espresso,3,173.49,520.47,New
+T100476,16/02/2024,north hub,Snacks,Brownie,2,298.09,596.18,New
+T100477,26/03/2024,south point,Snacks,Cookie,4,176.23,704.92,New
+T100478,23/01/2024,central,Snacks,Bagel,3,107.26,321.78,New
+T100479,06/03/2024,NORTH HUB,Sandwich,Cheese Sandwich,3,339.71,1019.13,New
+T100480,27/01/2024,north hub,Pastry,Danish,2,256.2,512.4,New
+T100481,15/04/2024,SOUTH POINT,Coffee,Americano,2,203.15,406.3,Regular
+T100482,02/01/2024,north hub,Tea,Green Tea,1,187.4,187.4,New
+T100483,30/03/2024,central,Tea,Masala Tea,3,167.67,503.01,New
+T100484,17/01/2024,north hub,Pastry,Croissant,4,344.99,1379.96,Regular
+T100485,13/04/2024,North Hub,Snacks,Bagel,2,116.38,232.76,New
+T100486,02/02/2024,South Point,Coffee,Americano,3,165.0,495.0,New
+T100487,09/01/2024,NORTH HUB,Tea,Masala Tea,4,211.08,844.32,Regular
+T100488,12/02/2024,central,Tea,Masala Tea,3,209.06,627.18,New
+T100489,27/04/2024,north hub,Snacks,Cookie,2,207.27,414.54,New
+T100490,17/02/2024,South Point,Pastry,Danish,1,127.46,127.46,Regular
+T100491,08/02/2024,South Point,Coffee,Latte,3,119.13,357.39,Regular
+T100492,02/04/2024,north hub,Pastry,Muffin,4,148.79,595.16,New
+T100493,11/02/2024,SOUTH POINT,Pastry,Croissant,2,326.92,653.84,New
+T100494,28/04/2024,North Hub,Coffee,Espresso,1,110.52,110.52,Regular
+T100495,26/01/2024,CENTRAL,Coffee,Americano,4,284.5,1138.0,New
+T100496,08/04/2024,North Hub,Tea,Masala Tea,4,284.54,1138.16,Regular
+T100497,19/02/2024,north hub,Tea,Masala Tea,4,298.64,1194.56,Regular
+T100498,25/01/2024,NORTH HUB,Coffee,Espresso,3,319.39,958.17,Regular
+T100499,24/01/2024,CENTRAL,Sandwich,Veg Sandwich,2,151.02,302.04,New
+T100500,13/01/2024,central,Tea,Green Tea,4,140.63,562.52,Regular
+T100501,29/02/2024,North Hub,Sandwich,Cheese Sandwich,3,205.69,617.07,Regular
+T100502,07/01/2024,north hub,Coffee,Cappuccino,2,151.57,303.14,Regular
+T100503,26/02/2024,North Hub,Tea,Green Tea,2,278.26,556.52,New
+T100504,05/02/2024,CENTRAL,Pastry,Muffin,3,251.7,755.1,New
+T100505,14/02/2024,south point,Coffee,Espresso,3,316.25,948.75,New
+T100506,20/01/2024,North Hub,Snacks,Bagel,4,102.34,409.36,Regular
+T100507,05/03/2024,central,Sandwich,Chicken Sandwich,2,327.07,654.14,New
+T100508,08/01/2024,central,Coffee,Cappuccino,1,159.2,159.2,New
+T100509,19/04/2024,Central,Coffee,Latte,3,212.49,637.47,Regular
+T100510,16/01/2024,North Hub,Tea,Black Tea,2,198.43,396.86,Regular
+T100511,14/01/2024,SOUTH POINT,Tea,Masala Tea,2,285.28,570.56,New
+T100512,16/03/2024,South Point,Tea,Masala Tea,4,193.49,773.96,New
+T100513,24/04/2024,South Point,Snacks,Cookie,1,334.76,334.76,Regular
+T100514,27/03/2024,South Point,Tea,Masala Tea,4,323.68,1294.72,New
+T100515,15/01/2024,south point,Coffee,Americano,1,315.48,315.48,Regular
+T100516,01/04/2024,Central,Tea,Black Tea,1,99.24,99.24,Regular
+T100517,07/04/2024,south point,Pastry,Danish,3,310.65,931.95,New
+T100518,06/03/2024,North Hub,Tea,Masala Tea,2,291.04,582.08,New
+T100519,01/02/2024,North Hub,Snacks,Cookie,2,107.95,215.9,New
+T100520,27/03/2024,North Hub,Pastry,Danish,2,109.0,218.0,New
+T100521,03/03/2024,NORTH HUB,Coffee,Americano,1,107.31,107.31,Regular
+T100522,26/03/2024,South Point,Coffee,Latte,2,83.06,166.12,New
+T100523,20/02/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,228.13,684.39,New
+T100524,25/01/2024,Central,Pastry,Muffin,1,342.82,342.82,New
+T100525,27/02/2024,south point,Sandwich,Veg Sandwich,1,198.44,198.44,Regular
+T100526,03/03/2024,South Point,Pastry,Muffin,1,226.0,226.0,New
+T100527,02/03/2024,NORTH HUB,Pastry,Croissant,1,341.35,341.35,New
+T100528,22/01/2024,NORTH HUB,Snacks,Cookie,3,148.9,446.7,Regular
+T100529,27/02/2024,north hub,Sandwich,Cheese Sandwich,2,311.79,623.58,Regular
+T100530,27/02/2024,NORTH HUB,Snacks,Brownie,3,227.53,682.59,Regular
+T100531,26/03/2024,SOUTH POINT,Pastry,Croissant,2,233.76,467.52,Regular
+T100532,18/02/2024,SOUTH POINT,Coffee,Latte,3,172.66,517.98,Regular
+T100533,21/02/2024,south point,Pastry,Muffin,4,231.63,926.52,New
+T100534,11/02/2024,SOUTH POINT,Snacks,Brownie,4,99.75,399.0,Regular
+T100535,10/03/2024,south point,Sandwich,Cheese Sandwich,4,286.45,1145.8,Regular
+T100536,15/01/2024,south point,Sandwich,Cheese Sandwich,4,156.87,627.48,Regular
+T100537,23/02/2024,Central,Snacks,Cookie,1,319.65,319.65,Regular
+T100538,16/04/2024,north hub,Sandwich,Cheese Sandwich,1,179.32,179.32,Regular
+T100539,29/02/2024,North Hub,Tea,Black Tea,3,118.56,355.68,Regular
+T100540,10/04/2024,central,Coffee,Latte,3,267.89,803.67,Regular
+T100541,06/04/2024,south point,Coffee,Americano,4,124.44,497.76,Regular
+T100542,08/01/2024,CENTRAL,Coffee,Americano,2,283.49,566.98,New
+T100543,22/02/2024,North Hub,Sandwich,Cheese Sandwich,4,341.39,1365.56,New
+T100544,29/02/2024,South Point,Sandwich,Chicken Sandwich,3,290.48,871.44,New
+T100545,17/04/2024,SOUTH POINT,Pastry,Croissant,4,86.06,344.24,Regular
+T100546,17/04/2024,central,Pastry,Muffin,3,241.97,725.91,Regular
+T100547,05/01/2024,CENTRAL,Coffee,Espresso,4,267.76,1071.04,Regular
+T100548,12/04/2024,North Hub,Tea,Green Tea,2,302.87,605.74,New
+T100549,08/03/2024,Central,Pastry,Danish,4,95.12,380.48,Regular
+T100550,06/01/2024,South Point,Pastry,Danish,2,209.63,419.26,Regular
+T100551,18/04/2024,central,Sandwich,Cheese Sandwich,2,224.55,449.1,Regular
+T100552,05/04/2024,north hub,Tea,Masala Tea,3,125.66,376.98,New
+T100553,25/04/2024,Central,Coffee,Cappuccino,2,167.06,334.12,New
+T100554,03/04/2024,CENTRAL,Pastry,Croissant,1,198.86,198.86,Regular
+T100555,16/02/2024,central,Tea,Black Tea,1,304.97,304.97,New
+T100556,08/04/2024,Central,Tea,Black Tea,1,330.94,330.94,Regular
+T100557,24/02/2024,South Point,Coffee,Latte,3,249.67,749.01,Regular
+T100558,09/02/2024,north hub,Tea,Masala Tea,1,186.64,186.64,New
+T100559,21/02/2024,Central,Tea,Green Tea,3,148.59,445.77,New
+T100560,16/01/2024,NORTH HUB,Tea,Masala Tea,3,345.18,1035.54,New
+T100561,13/01/2024,north hub,Pastry,Danish,1,345.42,345.42,New
+T100562,23/04/2024,CENTRAL,Coffee,Americano,2,329.74,659.48,Regular
+T100563,15/04/2024,South Point,Tea,Masala Tea,4,292.13,1168.52,Regular
+T100564,30/01/2024,SOUTH POINT,Tea,Green Tea,3,167.96,503.88,New
+T100565,19/01/2024,SOUTH POINT,Pastry,Danish,1,300.59,300.59,New
+T100566,17/01/2024,SOUTH POINT,Coffee,Espresso,3,190.37,571.11,Regular
+T100567,29/04/2024,central,Sandwich,Chicken Sandwich,2,168.23,336.46,Regular
+T100568,03/03/2024,CENTRAL,Pastry,Muffin,2,281.11,562.22,Regular
+T100569,19/01/2024,South Point,Coffee,Espresso,1,101.51,101.51,Regular
+T100570,01/04/2024,north hub,Tea,Black Tea,3,93.11,279.33,New
+T100571,27/02/2024,central,Coffee,Latte,4,200.95,803.8,New
+T100572,24/02/2024,CENTRAL,Coffee,Americano,4,200.32,801.28,New
+T100573,30/03/2024,NORTH HUB,Coffee,Latte,3,321.82,965.46,Regular
+T100574,10/04/2024,South Point,Sandwich,Cheese Sandwich,3,114.06,342.18,Regular
+T100575,30/03/2024,SOUTH POINT,Coffee,Latte,3,113.29,339.87,New
+T100576,26/04/2024,Central,Sandwich,Veg Sandwich,1,119.81,119.81,New
+T100577,02/03/2024,South Point,Tea,Masala Tea,2,88.03,176.06,New
+T100578,23/01/2024,south point,Sandwich,Chicken Sandwich,4,99.37,397.48,Regular
+T100579,09/01/2024,CENTRAL,Tea,Black Tea,1,258.16,258.16,New
+T100580,12/01/2024,North Hub,Tea,Green Tea,3,196.53,589.59,Regular
+T100581,26/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,3,286.17,858.51,New
+T100582,01/01/2024,South Point,Pastry,Muffin,2,348.0,696.0,New
+T100583,27/02/2024,North Hub,Snacks,Cookie,3,257.94,773.82,New
+T100584,01/01/2024,south point,Coffee,Cappuccino,1,93.62,93.62,Regular
+T100585,20/04/2024,north hub,Snacks,Bagel,1,108.23,108.23,Regular
+T100586,03/02/2024,Central,Coffee,Cappuccino,2,317.87,635.74,Regular
+T100587,05/04/2024,North Hub,Coffee,Espresso,1,222.42,222.42,Regular
+T100588,27/04/2024,CENTRAL,Tea,Masala Tea,4,302.71,1210.84,Regular
+T100589,17/02/2024,SOUTH POINT,Coffee,Cappuccino,1,311.29,311.29,Regular
+T100590,29/03/2024,south point,Coffee,Latte,1,330.47,330.47,New
+T100591,13/04/2024,Central,Sandwich,Veg Sandwich,1,336.45,336.45,Regular
+T100592,18/04/2024,NORTH HUB,Snacks,Brownie,4,229.8,919.2,New
+T100593,26/04/2024,SOUTH POINT,Sandwich,Veg Sandwich,3,172.08,516.24,Regular
+T100594,01/01/2024,South Point,Coffee,Espresso,1,339.7,339.7,New
+T100595,16/01/2024,North Hub,Tea,Masala Tea,2,227.8,455.6,New
+T100596,01/03/2024,Central,Sandwich,Veg Sandwich,4,97.35,389.4,Regular
+T100597,12/04/2024,central,Sandwich,Veg Sandwich,2,253.55,507.1,New
+T100598,04/03/2024,north hub,Pastry,Danish,1,238.67,238.67,Regular
+T100599,03/03/2024,north hub,Coffee,Espresso,2,321.86,643.72,Regular
+T100600,09/03/2024,south point,Tea,Black Tea,1,256.36,256.36,Regular
+T100601,22/01/2024,NORTH HUB,Sandwich,Veg Sandwich,4,174.24,696.96,Regular
+T100602,02/04/2024,south point,Sandwich,Veg Sandwich,2,340.88,681.76,New
+T100603,28/04/2024,central,Tea,Black Tea,2,296.44,592.88,Regular
+T100604,07/03/2024,CENTRAL,Coffee,Espresso,1,250.21,250.21,New
+T100605,16/03/2024,NORTH HUB,Pastry,Muffin,1,159.09,159.09,New
+T100606,26/01/2024,CENTRAL,Sandwich,Chicken Sandwich,3,180.86,542.58,New
+T100607,16/01/2024,NORTH HUB,Pastry,Croissant,1,260.89,260.89,Regular
+T100608,20/02/2024,NORTH HUB,Snacks,Cookie,1,99.43,99.43,New
+T100609,10/04/2024,central,Coffee,Americano,3,149.3,447.9,Regular
+T100610,26/03/2024,South Point,Snacks,Bagel,1,272.75,272.75,New
+T100611,26/02/2024,central,Snacks,Brownie,1,209.6,209.6,Regular
+T100612,29/01/2024,NORTH HUB,Snacks,Brownie,3,188.65,565.95,Regular
+T100613,18/03/2024,Central,Coffee,Cappuccino,4,120.89,483.56,Regular
+T100614,01/04/2024,CENTRAL,Coffee,Cappuccino,4,199.3,797.2,Regular
+T100615,09/03/2024,central,Tea,Black Tea,1,288.09,288.09,New
+T100616,16/02/2024,South Point,Pastry,Croissant,1,151.28,151.28,New
+T100617,22/04/2024,North Hub,Pastry,Danish,3,81.46,244.38,Regular
+T100618,03/04/2024,south point,Tea,Black Tea,3,260.5,781.5,New
+T100619,19/04/2024,NORTH HUB,Tea,Masala Tea,4,342.61,1370.44,Regular
+T100620,02/03/2024,North Hub,Snacks,Cookie,2,243.84,487.68,Regular
+T100621,25/04/2024,north hub,Tea,Green Tea,1,112.38,112.38,New
+T100622,09/03/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,166.6,333.2,Regular
+T100623,16/03/2024,South Point,Pastry,Muffin,2,314.26,628.52,Regular
+T100624,16/01/2024,SOUTH POINT,Tea,Black Tea,3,142.79,428.37,Regular
+T100625,30/03/2024,South Point,Sandwich,Cheese Sandwich,1,244.08,244.08,Regular
+T100626,30/03/2024,Central,Sandwich,Chicken Sandwich,1,188.72,188.72,Regular
+T100627,17/02/2024,south point,Sandwich,Chicken Sandwich,3,136.12,408.36,New
+T100628,25/03/2024,North Hub,Sandwich,Chicken Sandwich,2,299.62,599.24,New
+T100629,08/02/2024,CENTRAL,Snacks,Brownie,3,280.56,841.68,New
+T100630,09/04/2024,South Point,Sandwich,Veg Sandwich,4,258.63,1034.52,Regular
+T100631,02/02/2024,CENTRAL,Snacks,Brownie,1,143.81,143.81,Regular
+T100632,03/04/2024,south point,Snacks,Cookie,4,106.42,425.68,Regular
+T100633,10/04/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,235.56,706.68,Regular
+T100634,23/01/2024,north hub,Pastry,Croissant,1,229.49,229.49,Regular
+T100635,10/01/2024,North Hub,Sandwich,Veg Sandwich,4,130.86,523.44,Regular
+T100636,27/04/2024,south point,Sandwich,Chicken Sandwich,4,95.19,380.76,New
+T100637,09/03/2024,south point,Sandwich,Cheese Sandwich,2,101.79,203.58,Regular
+T100638,09/04/2024,Central,Pastry,Croissant,1,348.05,348.05,New
+T100639,03/02/2024,SOUTH POINT,Coffee,Latte,4,291.57,1166.28,Regular
+T100640,21/02/2024,north hub,Coffee,Latte,4,328.94,1315.76,New
+T100641,04/04/2024,North Hub,Snacks,Bagel,2,132.66,265.32,Regular
+T100642,10/01/2024,NORTH HUB,Snacks,Cookie,4,339.35,1357.4,New
+T100643,19/01/2024,NORTH HUB,Pastry,Muffin,4,118.52,474.08,New
+T100644,27/02/2024,central,Tea,Green Tea,4,217.45,869.8,Regular
+T100645,05/04/2024,south point,Coffee,Espresso,2,304.02,608.04,Regular
+T100646,01/01/2024,South Point,Snacks,Bagel,4,174.45,697.8,New
+T100647,29/04/2024,Central,Coffee,Cappuccino,4,194.7,778.8,Regular
+T100648,09/03/2024,north hub,Pastry,Muffin,1,114.61,114.61,Regular
+T100649,18/04/2024,NORTH HUB,Pastry,Croissant,1,113.19,113.19,Regular
+T100650,04/01/2024,North Hub,Tea,Black Tea,2,247.28,494.56,New
+T100651,16/01/2024,central,Tea,Black Tea,3,262.39,787.17,Regular
+T100652,24/01/2024,North Hub,Pastry,Danish,1,289.88,289.88,New
+T100653,20/03/2024,Central,Snacks,Cookie,2,230.3,460.6,New
+T100654,28/04/2024,South Point,Coffee,Espresso,4,254.36,1017.44,Regular
+T100655,02/01/2024,central,Sandwich,Cheese Sandwich,4,83.65,334.6,New
+T100656,22/04/2024,central,Tea,Green Tea,2,123.79,247.58,Regular
+T100657,01/04/2024,SOUTH POINT,Sandwich,Cheese Sandwich,4,345.93,1383.72,Regular
+T100658,01/02/2024,north hub,Snacks,Bagel,4,100.52,402.08,New
+T100659,31/03/2024,central,Tea,Green Tea,3,263.27,789.81,New
+T100660,24/03/2024,SOUTH POINT,Sandwich,Veg Sandwich,4,127.54,510.16,New
+T100661,24/01/2024,SOUTH POINT,Snacks,Brownie,1,273.51,273.51,New
+T100662,12/01/2024,Central,Coffee,Latte,4,270.62,1082.48,New
+T100663,19/02/2024,CENTRAL,Snacks,Bagel,2,143.23,286.46,Regular
+T100664,04/02/2024,North Hub,Tea,Masala Tea,3,152.8,458.4,New
+T100665,02/02/2024,South Point,Pastry,Croissant,4,256.79,1027.16,Regular
+T100666,02/02/2024,North Hub,Coffee,Americano,2,185.32,370.64,Regular
+T100667,01/03/2024,central,Sandwich,Cheese Sandwich,1,132.53,132.53,New
+T100668,20/02/2024,South Point,Tea,Masala Tea,4,277.55,1110.2,New
+T100669,12/02/2024,NORTH HUB,Pastry,Danish,3,121.62,364.86,New
+T100670,10/04/2024,CENTRAL,Snacks,Cookie,4,311.02,1244.08,New
+T100671,12/01/2024,NORTH HUB,Pastry,Croissant,2,218.96,437.92,New
+T100672,07/03/2024,NORTH HUB,Tea,Masala Tea,3,108.54,325.62,Regular
+T100673,05/03/2024,north hub,Tea,Black Tea,4,267.4,1069.6,Regular
+T100674,02/02/2024,North Hub,Pastry,Danish,1,220.17,220.17,Regular
+T100675,09/02/2024,Central,Snacks,Bagel,3,160.48,481.44,New
+T100676,14/03/2024,NORTH HUB,Pastry,Danish,1,194.09,194.09,New
+T100677,12/02/2024,central,Tea,Green Tea,2,160.55,321.1,Regular
+T100678,13/02/2024,CENTRAL,Tea,Masala Tea,4,151.02,604.08,New
+T100679,29/01/2024,south point,Sandwich,Veg Sandwich,1,124.17,124.17,New
+T100680,13/01/2024,NORTH HUB,Sandwich,Veg Sandwich,2,177.95,355.9,New
+T100681,12/01/2024,CENTRAL,Coffee,Espresso,4,147.77,591.08,Regular
+T100682,04/04/2024,South Point,Tea,Black Tea,2,264.53,529.06,New
+T100683,15/02/2024,North Hub,Sandwich,Cheese Sandwich,1,264.65,264.65,Regular
+T100684,02/01/2024,SOUTH POINT,Pastry,Danish,2,215.5,431.0,New
+T100685,24/04/2024,north hub,Snacks,Cookie,3,290.05,870.15,New
+T100686,23/04/2024,CENTRAL,Pastry,Danish,4,307.16,1228.64,Regular
+T100687,04/02/2024,central,Snacks,Cookie,2,236.54,473.08,New
+T100688,27/03/2024,central,Sandwich,Cheese Sandwich,1,247.11,247.11,New
+T100689,21/03/2024,CENTRAL,Coffee,Cappuccino,4,156.38,625.52,New
+T100690,30/03/2024,central,Pastry,Croissant,3,321.61,964.83,Regular
+T100691,08/01/2024,North Hub,Pastry,Croissant,4,86.54,346.16,New
+T100692,02/04/2024,central,Pastry,Croissant,3,174.12,522.36,New
+T100693,26/01/2024,SOUTH POINT,Snacks,Cookie,4,274.89,1099.56,New
+T100694,14/03/2024,central,Sandwich,Chicken Sandwich,2,101.62,203.24,New
+T100695,30/03/2024,SOUTH POINT,Pastry,Danish,2,129.46,258.92,New
+T100696,03/02/2024,NORTH HUB,Pastry,Muffin,1,239.11,239.11,Regular
+T100697,24/04/2024,Central,Coffee,Cappuccino,3,231.2,693.6,Regular
+T100698,14/04/2024,North Hub,Coffee,Latte,1,279.51,279.51,New
+T100699,07/01/2024,Central,Sandwich,Chicken Sandwich,2,299.41,598.82,New
+T100700,08/03/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,114.72,344.16,Regular
+T100701,27/02/2024,North Hub,Tea,Green Tea,1,84.96,84.96,New
+T100702,26/04/2024,CENTRAL,Coffee,Latte,1,266.2,266.2,New
+T100703,23/04/2024,CENTRAL,Tea,Green Tea,1,161.38,161.38,New
+T100704,18/04/2024,SOUTH POINT,Snacks,Brownie,1,249.02,249.02,New
+T100705,15/03/2024,NORTH HUB,Tea,Masala Tea,1,120.65,120.65,New
+T100706,29/01/2024,SOUTH POINT,Pastry,Danish,3,206.64,619.92,New
+T100707,29/04/2024,north hub,Tea,Black Tea,1,216.19,216.19,New
+T100708,05/02/2024,central,Sandwich,Cheese Sandwich,3,237.97,713.91,New
+T100709,29/03/2024,south point,Snacks,Cookie,1,218.56,218.56,Regular
+T100710,21/01/2024,north hub,Pastry,Danish,2,213.84,427.68,Regular
+T100711,05/02/2024,central,Tea,Green Tea,2,169.84,339.68,New
+T100712,10/01/2024,North Hub,Snacks,Bagel,1,99.22,99.22,New
+T100713,10/04/2024,SOUTH POINT,Snacks,Cookie,4,104.17,416.68,New
+T100714,13/03/2024,North Hub,Pastry,Danish,2,197.12,394.24,New
+T100715,24/01/2024,North Hub,Tea,Green Tea,3,176.06,528.18,Regular
+T100716,04/03/2024,central,Snacks,Cookie,1,219.36,219.36,Regular
+T100717,08/04/2024,NORTH HUB,Snacks,Bagel,3,162.31,486.93,Regular
+T100718,18/02/2024,central,Coffee,Latte,4,265.74,1062.96,Regular
+T100719,08/04/2024,South Point,Snacks,Cookie,1,313.27,313.27,New
+T100720,21/04/2024,CENTRAL,Coffee,Latte,2,160.69,321.38,New
+T100721,05/02/2024,CENTRAL,Tea,Black Tea,3,132.11,396.33,New
+T100722,22/03/2024,north hub,Tea,Masala Tea,2,111.37,222.74,Regular
+T100723,22/04/2024,CENTRAL,Tea,Black Tea,2,246.39,492.78,New
+T100724,12/04/2024,central,Sandwich,Veg Sandwich,1,199.84,199.84,New
+T100725,05/04/2024,SOUTH POINT,Tea,Black Tea,3,130.76,392.28,Regular
+T100726,24/01/2024,central,Snacks,Brownie,4,256.35,1025.4,Regular
+T100727,23/01/2024,central,Pastry,Danish,2,120.09,240.18,Regular
+T100728,02/03/2024,south point,Coffee,Americano,1,229.66,229.66,Regular
+T100729,05/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,1,222.33,222.33,Regular
+T100730,06/02/2024,South Point,Tea,Black Tea,4,278.24,1112.96,New
+T100731,12/01/2024,CENTRAL,Tea,Masala Tea,1,94.88,94.88,New
+T100732,22/04/2024,SOUTH POINT,Pastry,Croissant,2,319.73,639.46,Regular
+T100733,24/02/2024,CENTRAL,Pastry,Danish,1,269.81,269.81,New
+T100734,13/01/2024,north hub,Sandwich,Chicken Sandwich,3,138.35,415.05,New
+T100735,23/01/2024,SOUTH POINT,Coffee,Espresso,3,129.52,388.56,New
+T100736,29/03/2024,CENTRAL,Tea,Green Tea,2,196.55,393.1,New
+T100737,08/04/2024,South Point,Sandwich,Cheese Sandwich,3,300.74,902.22,Regular
+T100738,14/04/2024,Central,Snacks,Brownie,4,307.6,1230.4,New
+T100739,30/01/2024,North Hub,Snacks,Cookie,1,220.52,220.52,New
+T100740,17/01/2024,North Hub,Sandwich,Veg Sandwich,2,312.42,624.84,New
+T100741,22/04/2024,South Point,Tea,Green Tea,4,81.47,325.88,Regular
+T100742,02/03/2024,south point,Sandwich,Chicken Sandwich,1,89.5,89.5,New
+T100743,24/03/2024,Central,Tea,Green Tea,4,326.19,1304.76,Regular
+T100744,21/04/2024,north hub,Pastry,Croissant,2,289.34,578.68,Regular
+T100745,29/03/2024,South Point,Sandwich,Veg Sandwich,2,201.69,403.38,Regular
+T100746,26/03/2024,North Hub,Tea,Green Tea,4,283.47,1133.88,Regular
+T100747,13/01/2024,North Hub,Sandwich,Chicken Sandwich,1,338.02,338.02,New
+T100748,28/02/2024,North Hub,Sandwich,Veg Sandwich,3,288.46,865.38,Regular
+T100749,19/01/2024,NORTH HUB,Tea,Masala Tea,3,307.44,922.32,Regular
+T100750,18/02/2024,South Point,Tea,Green Tea,4,285.36,1141.44,Regular
+T100751,09/04/2024,central,Coffee,Americano,2,125.42,250.84,Regular
+T100752,12/01/2024,north hub,Sandwich,Veg Sandwich,1,305.07,305.07,Regular
+T100753,01/03/2024,North Hub,Snacks,Brownie,1,132.68,132.68,New
+T100754,14/04/2024,CENTRAL,Sandwich,Veg Sandwich,2,321.01,642.02,Regular
+T100755,19/01/2024,South Point,Sandwich,Chicken Sandwich,3,203.84,611.52,New
+T100756,16/03/2024,NORTH HUB,Tea,Masala Tea,1,262.78,262.78,New
+T100757,09/01/2024,South Point,Sandwich,Chicken Sandwich,4,214.26,857.04,Regular
+T100758,11/03/2024,north hub,Sandwich,Cheese Sandwich,3,105.38,316.14,New
+T100759,28/01/2024,NORTH HUB,Snacks,Brownie,4,158.5,634.0,New
+T100760,18/03/2024,north hub,Tea,Green Tea,3,345.61,1036.83,New
+T100761,04/04/2024,South Point,Sandwich,Chicken Sandwich,2,339.39,678.78,Regular
+T100762,21/02/2024,central,Pastry,Danish,4,166.53,666.12,Regular
+T100763,23/03/2024,north hub,Coffee,Espresso,4,349.0,1396.0,Regular
+T100764,20/04/2024,NORTH HUB,Snacks,Cookie,2,308.3,616.6,Regular
+T100765,16/01/2024,NORTH HUB,Sandwich,Veg Sandwich,4,244.96,979.84,Regular
+T100766,26/04/2024,north hub,Pastry,Croissant,3,90.83,272.49,Regular
+T100767,09/03/2024,South Point,Sandwich,Chicken Sandwich,1,323.39,323.39,Regular
+T100768,08/04/2024,south point,Sandwich,Chicken Sandwich,1,230.51,230.51,New
+T100769,12/01/2024,South Point,Tea,Green Tea,2,314.49,628.98,New
+T100770,25/01/2024,north hub,Tea,Green Tea,3,305.3,915.9,Regular
+T100771,21/02/2024,Central,Tea,Masala Tea,4,304.91,1219.64,New
+T100772,25/03/2024,north hub,Pastry,Croissant,4,268.51,1074.04,Regular
+T100773,09/04/2024,central,Sandwich,Veg Sandwich,1,158.68,158.68,Regular
+T100774,22/02/2024,north hub,Coffee,Latte,4,170.76,683.04,Regular
+T100775,23/01/2024,north hub,Snacks,Brownie,1,163.29,163.29,New
+T100776,16/01/2024,central,Tea,Green Tea,2,85.41,170.82,Regular
+T100777,26/02/2024,north hub,Tea,Black Tea,4,237.29,949.16,Regular
+T100778,08/02/2024,North Hub,Sandwich,Chicken Sandwich,3,268.69,806.07,Regular
+T100779,18/04/2024,Central,Sandwich,Cheese Sandwich,4,310.54,1242.16,Regular
+T100780,22/02/2024,CENTRAL,Pastry,Danish,1,117.84,117.84,New
+T100781,11/02/2024,Central,Pastry,Danish,2,226.93,453.86,Regular
+T100782,27/02/2024,north hub,Tea,Green Tea,1,82.16,82.16,New
+T100783,08/02/2024,North Hub,Sandwich,Veg Sandwich,4,105.68,422.72,New
+T100784,14/01/2024,South Point,Coffee,Cappuccino,1,94.64,94.64,Regular
+T100785,04/04/2024,north hub,Snacks,Bagel,1,275.88,275.88,Regular
+T100786,05/01/2024,North Hub,Sandwich,Cheese Sandwich,2,101.89,203.78,New
+T100787,04/02/2024,central,Sandwich,Veg Sandwich,3,273.44,820.32,New
+T100788,27/03/2024,North Hub,Pastry,Danish,4,147.4,589.6,New
+T100789,02/04/2024,central,Snacks,Bagel,2,316.98,633.96,New
+T100790,16/04/2024,south point,Tea,Masala Tea,3,299.55,898.65,Regular
+T100791,15/03/2024,CENTRAL,Sandwich,Chicken Sandwich,1,338.61,338.61,New
+T100792,18/01/2024,SOUTH POINT,Tea,Green Tea,3,318.62,955.86,New
+T100793,20/04/2024,North Hub,Sandwich,Chicken Sandwich,1,332.0,332.0,New
+T100794,16/03/2024,NORTH HUB,Tea,Masala Tea,1,311.86,311.86,New
+T100795,09/01/2024,north hub,Snacks,Cookie,2,267.21,534.42,Regular
+T100796,14/03/2024,Central,Pastry,Croissant,1,125.97,125.97,Regular
+T100797,27/02/2024,SOUTH POINT,Snacks,Cookie,2,153.36,306.72,Regular
+T100798,17/04/2024,Central,Coffee,Americano,3,137.44,412.32,New
+T100799,17/01/2024,south point,Pastry,Croissant,3,242.97,728.91,New
+T100800,11/04/2024,SOUTH POINT,Snacks,Bagel,1,215.98,215.98,Regular
+T100801,07/01/2024,SOUTH POINT,Coffee,Latte,2,314.11,628.22,Regular
+T100802,15/02/2024,Central,Sandwich,Veg Sandwich,1,337.22,337.22,New
+T100803,13/01/2024,central,Sandwich,Chicken Sandwich,2,189.31,378.62,Regular
+T100804,09/02/2024,Central,Tea,Black Tea,2,216.71,433.42,New
+T100805,11/02/2024,central,Pastry,Croissant,2,342.31,684.62,New
+T100806,09/01/2024,south point,Sandwich,Veg Sandwich,3,154.58,463.74,New
+T100807,19/02/2024,north hub,Pastry,Croissant,2,293.95,587.9,New
+T100808,27/01/2024,South Point,Sandwich,Cheese Sandwich,3,140.81,422.43,New
+T100809,06/03/2024,central,Tea,Black Tea,2,263.99,527.98,New
+T100810,05/01/2024,south point,Snacks,Bagel,3,148.48,445.44,Regular
+T100811,29/01/2024,NORTH HUB,Tea,Green Tea,4,318.61,1274.44,Regular
+T100812,06/02/2024,south point,Coffee,Cappuccino,3,231.6,694.8,Regular
+T100813,07/02/2024,Central,Sandwich,Chicken Sandwich,3,130.2,390.6,New
+T100814,23/03/2024,Central,Coffee,Cappuccino,1,140.58,140.58,Regular
+T100815,08/01/2024,South Point,Coffee,Americano,2,213.34,426.68,New
+T100816,21/04/2024,south point,Pastry,Croissant,4,339.63,1358.52,New
+T100817,18/04/2024,CENTRAL,Sandwich,Chicken Sandwich,1,287.8,287.8,New
+T100818,05/03/2024,north hub,Coffee,Cappuccino,2,211.84,423.68,New
+T100819,26/03/2024,Central,Snacks,Cookie,4,171.18,684.72,Regular
+T100820,25/04/2024,South Point,Coffee,Latte,4,228.3,913.2,Regular
+T100821,17/01/2024,north hub,Snacks,Brownie,4,282.06,1128.24,Regular
+T100822,11/03/2024,south point,Pastry,Muffin,2,291.66,583.32,New
+T100823,29/03/2024,south point,Coffee,Latte,4,167.64,670.56,Regular
+T100824,14/02/2024,SOUTH POINT,Tea,Green Tea,4,274.71,1098.84,Regular
+T100825,04/01/2024,South Point,Pastry,Croissant,1,257.6,257.6,Regular
+T100826,05/02/2024,Central,Snacks,Brownie,3,338.96,1016.88,New
+T100827,10/03/2024,CENTRAL,Pastry,Muffin,2,331.39,662.78,Regular
+T100828,31/01/2024,south point,Coffee,Latte,3,293.13,879.39,New
+T100829,19/01/2024,CENTRAL,Sandwich,Chicken Sandwich,1,275.32,275.32,Regular
+T100830,01/03/2024,south point,Sandwich,Veg Sandwich,3,153.99,461.97,New
+T100831,17/04/2024,Central,Snacks,Bagel,4,308.41,1233.64,Regular
+T100832,23/02/2024,north hub,Snacks,Cookie,4,195.43,781.72,Regular
+T100833,08/02/2024,North Hub,Sandwich,Cheese Sandwich,2,153.5,307.0,Regular
+T100834,31/03/2024,north hub,Snacks,Brownie,2,183.72,367.44,New
+T100835,14/03/2024,south point,Pastry,Muffin,2,305.7,611.4,Regular
+T100836,30/03/2024,North Hub,Tea,Black Tea,1,120.13,120.13,Regular
+T100837,19/01/2024,North Hub,Tea,Masala Tea,2,203.16,406.32,New
+T100838,08/02/2024,CENTRAL,Pastry,Muffin,1,212.94,212.94,New
+T100839,07/03/2024,South Point,Tea,Masala Tea,4,89.89,359.56,New
+T100840,14/02/2024,CENTRAL,Coffee,Cappuccino,3,132.85,398.55,New
+T100841,13/01/2024,CENTRAL,Pastry,Croissant,4,303.22,1212.88,Regular
+T100842,23/04/2024,north hub,Snacks,Cookie,4,304.31,1217.24,Regular
+T100843,01/04/2024,north hub,Pastry,Croissant,4,158.95,635.8,New
+T100844,27/02/2024,NORTH HUB,Sandwich,Veg Sandwich,2,316.22,632.44,Regular
+T100845,20/01/2024,south point,Snacks,Bagel,2,288.38,576.76,New
+T100846,01/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,192.84,385.68,Regular
+T100847,12/03/2024,Central,Snacks,Brownie,3,282.07,846.21,New
+T100848,01/03/2024,south point,Tea,Masala Tea,2,339.56,679.12,Regular
+T100849,14/04/2024,south point,Pastry,Danish,1,203.92,203.92,New
+T100850,08/02/2024,SOUTH POINT,Coffee,Latte,4,144.38,577.52,New
+T100851,01/01/2024,SOUTH POINT,Snacks,Cookie,3,334.29,1002.87,Regular
+T100852,03/01/2024,central,Snacks,Cookie,3,243.01,729.03,Regular
+T100853,17/03/2024,central,Sandwich,Veg Sandwich,3,108.42,325.26,Regular
+T100854,01/04/2024,CENTRAL,Tea,Masala Tea,3,234.62,703.86,New
+T100855,02/03/2024,Central,Sandwich,Veg Sandwich,3,215.16,645.48,Regular
+T100856,03/03/2024,North Hub,Sandwich,Veg Sandwich,1,311.01,311.01,New
+T100857,22/04/2024,North Hub,Tea,Masala Tea,4,223.29,893.16,Regular
+T100858,25/01/2024,SOUTH POINT,Coffee,Americano,3,148.91,446.73,Regular
+T100859,25/02/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,262.42,1049.68,New
+T100860,02/02/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,226.5,453.0,New
+T100861,07/02/2024,South Point,Snacks,Cookie,3,142.92,428.76,Regular
+T100862,26/04/2024,central,Tea,Green Tea,3,234.88,704.64,New
+T100863,06/01/2024,north hub,Pastry,Muffin,4,301.81,1207.24,New
+T100864,27/02/2024,North Hub,Coffee,Latte,3,87.71,263.13,Regular
+T100865,13/02/2024,south point,Coffee,Espresso,3,250.33,750.99,New
+T100866,14/02/2024,central,Tea,Black Tea,3,174.39,523.17,Regular
+T100867,01/02/2024,NORTH HUB,Snacks,Bagel,1,159.02,159.02,Regular
+T100868,14/02/2024,north hub,Snacks,Brownie,1,186.0,186.0,New
+T100869,01/03/2024,central,Tea,Black Tea,3,172.35,517.05,Regular
+T100870,16/02/2024,Central,Snacks,Brownie,1,304.7,304.7,New
+T100871,21/01/2024,south point,Coffee,Latte,2,154.2,308.4,Regular
+T100872,20/03/2024,central,Coffee,Americano,3,277.95,833.85,New
+T100873,27/04/2024,South Point,Pastry,Muffin,2,105.4,210.8,New
+T100874,25/03/2024,SOUTH POINT,Tea,Black Tea,4,336.88,1347.52,New
+T100875,15/03/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,248.03,496.06,New
+T100876,10/04/2024,south point,Sandwich,Cheese Sandwich,4,270.81,1083.24,New
+T100877,05/02/2024,SOUTH POINT,Pastry,Danish,3,160.47,481.41,Regular
+T100878,08/04/2024,central,Pastry,Muffin,4,191.27,765.08,Regular
+T100879,19/01/2024,NORTH HUB,Snacks,Cookie,4,140.42,561.68,New
+T100880,20/01/2024,North Hub,Pastry,Danish,2,331.78,663.56,Regular
+T100881,26/02/2024,North Hub,Pastry,Muffin,2,211.79,423.58,New
+T100882,18/01/2024,north hub,Sandwich,Veg Sandwich,2,250.22,500.44,New
+T100883,16/02/2024,CENTRAL,Snacks,Cookie,3,278.25,834.75,Regular
+T100884,14/04/2024,Central,Pastry,Muffin,3,180.2,540.6,Regular
+T100885,18/02/2024,south point,Pastry,Croissant,2,274.43,548.86,New
+T100886,14/01/2024,north hub,Snacks,Cookie,3,262.52,787.56,New
+T100887,15/01/2024,CENTRAL,Tea,Masala Tea,3,270.53,811.59,New
+T100888,31/01/2024,South Point,Snacks,Bagel,4,212.09,848.36,New
+T100889,01/01/2024,South Point,Sandwich,Chicken Sandwich,4,183.39,733.56,New
+T100890,26/04/2024,Central,Tea,Masala Tea,2,139.96,279.92,New
+T100891,23/02/2024,SOUTH POINT,Coffee,Espresso,3,302.65,907.95,Regular
+T100892,27/04/2024,central,Snacks,Bagel,4,244.25,977.0,New
+T100893,03/01/2024,north hub,Sandwich,Cheese Sandwich,1,199.98,199.98,New
+T100894,16/01/2024,north hub,Tea,Black Tea,3,334.88,1004.64,Regular
+T100895,27/03/2024,south point,Snacks,Cookie,1,92.92,92.92,New
+T100896,26/02/2024,south point,Pastry,Danish,2,309.55,619.1,New
+T100897,15/03/2024,South Point,Snacks,Brownie,3,349.35,1048.05,Regular
+T100898,12/01/2024,South Point,Coffee,Cappuccino,2,319.47,638.94,New
+T100899,14/03/2024,NORTH HUB,Snacks,Brownie,2,298.82,597.64,Regular
+T100900,05/04/2024,NORTH HUB,Tea,Black Tea,2,181.06,362.12,New
+T100901,16/01/2024,SOUTH POINT,Tea,Black Tea,2,142.45,284.9,Regular
+T100902,12/03/2024,NORTH HUB,Snacks,Brownie,2,278.41,556.82,Regular
+T100903,11/04/2024,central,Tea,Black Tea,3,162.24,486.72,Regular
+T100904,16/03/2024,central,Pastry,Danish,1,127.53,127.53,New
+T100905,24/01/2024,north hub,Snacks,Bagel,3,292.36,877.08,New
+T100906,28/01/2024,North Hub,Pastry,Muffin,3,164.39,493.17,Regular
+T100907,26/04/2024,central,Pastry,Croissant,3,326.9,980.7,Regular
+T100908,08/01/2024,CENTRAL,Sandwich,Cheese Sandwich,4,306.97,1227.88,New
+T100909,01/04/2024,South Point,Snacks,Brownie,4,308.86,1235.44,New
+T100910,05/02/2024,south point,Tea,Green Tea,3,288.32,864.96,New
+T100911,30/03/2024,NORTH HUB,Pastry,Croissant,1,317.84,317.84,New
+T100912,08/01/2024,north hub,Sandwich,Cheese Sandwich,3,297.55,892.65,New
+T100913,27/02/2024,Central,Snacks,Bagel,2,242.68,485.36,Regular
+T100914,29/02/2024,south point,Snacks,Brownie,4,159.87,639.48,New
+T100915,19/02/2024,CENTRAL,Coffee,Latte,4,319.82,1279.28,Regular
+T100916,28/01/2024,NORTH HUB,Coffee,Espresso,3,306.96,920.88,New
+T100917,01/04/2024,CENTRAL,Pastry,Muffin,3,207.68,623.04,Regular
+T100918,10/04/2024,South Point,Coffee,Espresso,1,90.55,90.55,Regular
+T100919,10/02/2024,South Point,Pastry,Croissant,1,252.41,252.41,New
+T100920,09/04/2024,SOUTH POINT,Tea,Green Tea,2,93.66,187.32,Regular
+T100921,04/03/2024,north hub,Pastry,Danish,3,330.1,990.3,Regular
+T100922,27/01/2024,south point,Coffee,Latte,3,339.64,1018.92,Regular
+T100923,27/04/2024,south point,Tea,Masala Tea,3,131.16,393.48,Regular
+T100924,03/03/2024,Central,Coffee,Americano,4,262.63,1050.52,New
+T100925,17/01/2024,north hub,Pastry,Croissant,2,104.91,209.82,Regular
+T100926,13/03/2024,CENTRAL,Sandwich,Cheese Sandwich,1,276.97,276.97,New
+T100927,02/02/2024,Central,Snacks,Bagel,4,173.77,695.08,Regular
+T100928,26/04/2024,North Hub,Coffee,Latte,4,263.88,1055.52,New
+T100929,24/03/2024,south point,Pastry,Danish,4,180.68,722.72,New
+T100930,17/03/2024,CENTRAL,Tea,Masala Tea,4,119.3,477.2,New
+T100931,01/04/2024,central,Coffee,Latte,2,189.65,379.3,Regular
+T100932,21/04/2024,SOUTH POINT,Coffee,Americano,3,110.42,331.26,New
+T100933,29/01/2024,north hub,Snacks,Cookie,1,235.76,235.76,New
+T100934,13/01/2024,South Point,Pastry,Danish,1,91.06,91.06,Regular
+T100935,15/02/2024,central,Sandwich,Chicken Sandwich,4,222.38,889.52,New
+T100936,04/02/2024,SOUTH POINT,Tea,Masala Tea,4,319.32,1277.28,Regular
+T100937,06/01/2024,SOUTH POINT,Pastry,Croissant,2,306.23,612.46,Regular
+T100938,22/03/2024,North Hub,Tea,Masala Tea,4,318.35,1273.4,New
+T100939,24/04/2024,North Hub,Coffee,Latte,1,328.95,328.95,Regular
+T100940,09/03/2024,NORTH HUB,Snacks,Brownie,1,108.22,108.22,Regular
+T100941,16/02/2024,NORTH HUB,Snacks,Brownie,3,114.76,344.28,Regular
+T100942,25/01/2024,Central,Sandwich,Cheese Sandwich,3,230.39,691.17,New
+T100943,06/03/2024,SOUTH POINT,Snacks,Cookie,1,321.37,321.37,Regular
+T100944,10/01/2024,central,Coffee,Cappuccino,1,343.07,343.07,Regular
+T100945,25/02/2024,north hub,Sandwich,Cheese Sandwich,2,92.49,184.98,Regular
+T100946,30/01/2024,SOUTH POINT,Pastry,Croissant,2,176.06,352.12,New
+T100947,23/04/2024,North Hub,Snacks,Bagel,1,137.48,137.48,Regular
+T100948,18/04/2024,CENTRAL,Sandwich,Chicken Sandwich,4,284.11,1136.44,New
+T100949,05/01/2024,South Point,Coffee,Espresso,3,252.85,758.55,Regular
+T100950,28/04/2024,NORTH HUB,Tea,Masala Tea,1,112.37,112.37,New
+T100951,29/04/2024,south point,Tea,Masala Tea,4,210.55,842.2,New
+T100952,02/02/2024,CENTRAL,Coffee,Espresso,1,265.07,265.07,New
+T100953,27/04/2024,north hub,Coffee,Latte,3,290.33,870.99,Regular
+T100954,05/03/2024,North Hub,Tea,Green Tea,3,85.41,256.23,Regular
+T100955,18/01/2024,North Hub,Sandwich,Chicken Sandwich,2,320.43,640.86,Regular
+T100956,05/04/2024,North Hub,Tea,Green Tea,2,233.71,467.42,New
+T100957,20/04/2024,south point,Coffee,Cappuccino,2,299.22,598.44,Regular
+T100958,18/02/2024,NORTH HUB,Snacks,Cookie,2,298.14,596.28,Regular
+T100959,11/01/2024,CENTRAL,Pastry,Croissant,3,131.26,393.78,New
+T100960,25/03/2024,north hub,Snacks,Cookie,4,109.75,439.0,Regular
+T100961,26/01/2024,NORTH HUB,Snacks,Cookie,4,274.75,1099.0,Regular
+T100962,03/03/2024,north hub,Coffee,Latte,4,122.24,488.96,New
+T100963,29/03/2024,NORTH HUB,Tea,Green Tea,1,309.48,309.48,New
+T100964,26/03/2024,south point,Sandwich,Cheese Sandwich,2,276.07,552.14,Regular
+T100965,28/02/2024,South Point,Snacks,Bagel,2,307.29,614.58,New
+T100966,27/01/2024,north hub,Tea,Black Tea,3,160.73,482.19,Regular
+T100967,18/02/2024,NORTH HUB,Sandwich,Veg Sandwich,3,165.48,496.44,Regular
+T100968,17/03/2024,North Hub,Snacks,Bagel,1,261.23,261.23,Regular
+T100969,02/02/2024,SOUTH POINT,Sandwich,Veg Sandwich,1,88.49,88.49,Regular
+T100970,07/04/2024,North Hub,Tea,Masala Tea,4,276.15,1104.6,Regular
+T100971,14/04/2024,Central,Pastry,Muffin,3,305.66,916.98,New
+T100972,08/04/2024,South Point,Tea,Black Tea,2,192.09,384.18,New
+T100973,01/01/2024,South Point,Coffee,Americano,4,286.52,1146.08,Regular
+T100974,21/01/2024,North Hub,Sandwich,Veg Sandwich,2,127.14,254.28,New
+T100975,21/04/2024,CENTRAL,Pastry,Muffin,4,167.01,668.04,New
+T100976,24/02/2024,south point,Sandwich,Veg Sandwich,2,343.06,686.12,Regular
+T100977,06/01/2024,north hub,Sandwich,Veg Sandwich,1,346.31,346.31,New
+T100978,01/04/2024,South Point,Snacks,Cookie,4,218.4,873.6,New
+T100979,21/03/2024,North Hub,Coffee,Americano,2,332.25,664.5,Regular
+T100980,09/03/2024,North Hub,Sandwich,Veg Sandwich,2,221.14,442.28,Regular
+T100981,04/04/2024,south point,Tea,Masala Tea,3,158.73,476.19,Regular
+T100982,05/01/2024,south point,Tea,Masala Tea,4,152.06,608.24,Regular
+T100983,11/04/2024,central,Snacks,Cookie,2,330.97,661.94,Regular
+T100984,03/01/2024,central,Coffee,Espresso,3,126.56,379.68,Regular
+T100985,22/02/2024,CENTRAL,Coffee,Latte,2,236.5,473.0,Regular
+T100986,23/01/2024,CENTRAL,Tea,Green Tea,4,229.99,919.96,New
+T100987,10/04/2024,Central,Pastry,Muffin,1,279.7,279.7,Regular
+T100988,22/02/2024,CENTRAL,Snacks,Cookie,4,214.8,859.2,New
+T100989,06/02/2024,NORTH HUB,Snacks,Bagel,4,153.52,614.08,New
+T100990,14/03/2024,south point,Tea,Black Tea,2,125.74,251.48,Regular
+T100991,14/03/2024,NORTH HUB,Tea,Black Tea,2,247.62,495.24,New
+T100992,23/03/2024,north hub,Pastry,Croissant,4,274.13,1096.52,New
+T100993,17/01/2024,North Hub,Pastry,Croissant,3,233.77,701.31,New
+T100994,25/03/2024,CENTRAL,Coffee,Latte,3,279.35,838.05,Regular
+T100995,18/03/2024,North Hub,Snacks,Cookie,3,118.21,354.63,New
+T100996,13/03/2024,South Point,Snacks,Cookie,2,318.27,636.54,New
+T100997,19/04/2024,Central,Tea,Masala Tea,2,237.25,474.5,Regular
+T100998,01/01/2024,South Point,Coffee,Espresso,4,114.25,457.0,New
+T100999,20/02/2024,Central,Snacks,Cookie,1,204.72,204.72,New
+T101000,14/02/2024,central,Coffee,Americano,2,308.09,616.18,New
+T101001,17/03/2024,North Hub,Coffee,Latte,4,322.34,1289.36,New
+T101002,04/01/2024,Central,Tea,Black Tea,4,151.46,605.84,New
+T101003,02/03/2024,SOUTH POINT,Coffee,Latte,1,272.04,272.04,Regular
+T101004,05/03/2024,NORTH HUB,Pastry,Muffin,3,107.0,321.0,New
+T101005,22/04/2024,Central,Pastry,Muffin,4,89.06,356.24,Regular
+T101006,13/04/2024,Central,Sandwich,Veg Sandwich,4,231.31,925.24,New
+T101007,01/02/2024,NORTH HUB,Tea,Black Tea,4,267.6,1070.4,Regular
+T101008,03/02/2024,North Hub,Sandwich,Chicken Sandwich,3,294.86,884.58,Regular
+T101009,01/04/2024,North Hub,Pastry,Muffin,3,171.86,515.58,Regular
+T101010,04/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,1,81.76,81.76,New
+T101011,12/03/2024,South Point,Tea,Masala Tea,2,209.47,418.94,New
+T101012,08/02/2024,SOUTH POINT,Tea,Green Tea,3,84.28,252.84,New
+T101013,26/01/2024,north hub,Coffee,Americano,2,104.84,209.68,New
+T101014,03/02/2024,SOUTH POINT,Snacks,Cookie,2,168.21,336.42,New
+T101015,23/02/2024,North Hub,Coffee,Espresso,3,198.04,594.12,Regular
+T101016,27/04/2024,central,Tea,Green Tea,4,155.46,621.84,Regular
+T101017,03/01/2024,CENTRAL,Pastry,Muffin,1,237.1,237.1,Regular
+T101018,19/02/2024,Central,Pastry,Danish,2,94.94,189.88,New
+T101019,12/01/2024,NORTH HUB,Coffee,Americano,4,119.04,476.16,New
+T101020,05/03/2024,NORTH HUB,Tea,Green Tea,3,267.72,803.16,Regular
+T101021,23/02/2024,Central,Pastry,Danish,2,118.38,236.76,New
+T101022,17/04/2024,CENTRAL,Tea,Masala Tea,2,252.74,505.48,New
+T101023,05/01/2024,north hub,Pastry,Croissant,2,94.76,189.52,Regular
+T101024,03/04/2024,CENTRAL,Tea,Masala Tea,4,189.99,759.96,Regular
+T101025,03/04/2024,CENTRAL,Sandwich,Cheese Sandwich,4,127.9,511.6,New
+T101026,26/02/2024,CENTRAL,Tea,Masala Tea,4,109.6,438.4,New
+T101027,17/01/2024,north hub,Tea,Masala Tea,2,233.1,466.2,Regular
+T101028,21/04/2024,north hub,Coffee,Espresso,2,330.65,661.3,New
+T101029,16/02/2024,North Hub,Sandwich,Chicken Sandwich,1,94.79,94.79,Regular
+T101030,23/01/2024,Central,Snacks,Cookie,1,193.82,193.82,Regular
+T101031,19/03/2024,north hub,Coffee,Latte,4,271.03,1084.12,Regular
+T101032,10/04/2024,north hub,Snacks,Brownie,4,204.93,819.72,New
+T101033,25/03/2024,North Hub,Pastry,Danish,3,297.75,893.25,Regular
+T101034,14/01/2024,NORTH HUB,Snacks,Bagel,4,128.5,514.0,Regular
+T101035,06/03/2024,North Hub,Tea,Masala Tea,1,339.09,339.09,New
+T101036,15/03/2024,South Point,Snacks,Brownie,1,183.99,183.99,Regular
+T101037,20/02/2024,South Point,Coffee,Americano,1,172.22,172.22,New
+T101038,12/04/2024,central,Coffee,Americano,2,316.14,632.28,New
+T101039,07/02/2024,CENTRAL,Snacks,Cookie,2,232.24,464.48,New
+T101040,04/03/2024,Central,Coffee,Cappuccino,4,219.44,877.76,Regular
+T101041,07/04/2024,south point,Coffee,Espresso,3,276.28,828.84,Regular
+T101042,07/02/2024,SOUTH POINT,Snacks,Bagel,3,236.56,709.68,New
+T101043,19/02/2024,North Hub,Sandwich,Cheese Sandwich,3,123.88,371.64,New
+T101044,07/04/2024,NORTH HUB,Sandwich,Veg Sandwich,2,262.03,524.06,New
+T101045,22/03/2024,SOUTH POINT,Pastry,Croissant,1,116.04,116.04,Regular
+T101046,30/01/2024,NORTH HUB,Coffee,Latte,1,297.58,297.58,New
+T101047,19/03/2024,SOUTH POINT,Snacks,Cookie,2,347.23,694.46,New
+T101048,31/03/2024,North Hub,Coffee,Cappuccino,3,181.89,545.67,New
+T101049,20/02/2024,south point,Tea,Green Tea,3,200.08,600.24,Regular
+T101050,03/03/2024,SOUTH POINT,Coffee,Espresso,4,92.54,370.16,New
+T101051,07/04/2024,North Hub,Coffee,Latte,4,83.71,334.84,Regular
+T101052,21/02/2024,north hub,Sandwich,Cheese Sandwich,3,328.78,986.34,Regular
+T101053,07/02/2024,south point,Snacks,Bagel,2,114.73,229.46,New
+T101054,06/04/2024,NORTH HUB,Coffee,Latte,3,200.36,601.08,New
+T101055,28/03/2024,South Point,Sandwich,Veg Sandwich,4,300.15,1200.6,New
+T101056,19/03/2024,CENTRAL,Pastry,Muffin,3,320.12,960.36,Regular
+T101057,30/01/2024,South Point,Sandwich,Chicken Sandwich,2,220.24,440.48,Regular
+T101058,28/04/2024,south point,Sandwich,Chicken Sandwich,1,232.56,232.56,Regular
+T101059,15/04/2024,NORTH HUB,Sandwich,Chicken Sandwich,2,260.81,521.62,New
+T101060,20/02/2024,SOUTH POINT,Coffee,Americano,2,339.57,679.14,Regular
+T101061,21/03/2024,NORTH HUB,Coffee,Americano,4,242.72,970.88,New
+T101062,05/01/2024,SOUTH POINT,Pastry,Croissant,2,231.06,462.12,New
+T101063,29/01/2024,North Hub,Tea,Masala Tea,2,83.92,167.84,New
+T101064,04/01/2024,south point,Tea,Green Tea,4,101.86,407.44,Regular
+T101065,10/01/2024,North Hub,Tea,Masala Tea,4,235.84,943.36,Regular
+T101066,25/02/2024,central,Pastry,Danish,1,332.78,332.78,Regular
+T101067,17/01/2024,SOUTH POINT,Tea,Green Tea,3,314.01,942.03,New
+T101068,14/03/2024,north hub,Tea,Black Tea,2,345.3,690.6,Regular
+T101069,17/01/2024,North Hub,Sandwich,Chicken Sandwich,4,222.52,890.08,Regular
+T101070,24/03/2024,central,Coffee,Latte,1,292.74,292.74,New
+T101071,28/03/2024,Central,Coffee,Latte,3,306.91,920.73,New
+T101072,09/03/2024,South Point,Sandwich,Veg Sandwich,4,254.97,1019.88,Regular
+T101073,03/02/2024,NORTH HUB,Sandwich,Cheese Sandwich,3,171.46,514.38,New
+T101074,06/01/2024,central,Sandwich,Veg Sandwich,3,206.89,620.67,Regular
+T101075,22/02/2024,south point,Coffee,Americano,2,311.64,623.28,New
+T101076,06/03/2024,North Hub,Tea,Green Tea,2,160.61,321.22,New
+T101077,17/03/2024,south point,Sandwich,Chicken Sandwich,4,329.41,1317.64,Regular
+T101078,16/04/2024,South Point,Pastry,Danish,3,142.05,426.15,New
+T101079,12/02/2024,north hub,Sandwich,Chicken Sandwich,4,282.37,1129.48,New
+T101080,21/04/2024,south point,Snacks,Brownie,4,250.25,1001.0,New
+T101081,15/03/2024,SOUTH POINT,Sandwich,Chicken Sandwich,3,282.39,847.17,Regular
+T101082,24/04/2024,north hub,Coffee,Cappuccino,4,198.08,792.32,New
+T101083,20/04/2024,north hub,Sandwich,Chicken Sandwich,3,331.81,995.43,New
+T101084,23/01/2024,central,Snacks,Bagel,3,250.77,752.31,Regular
+T101085,24/02/2024,north hub,Pastry,Danish,3,157.84,473.52,Regular
+T101086,20/03/2024,CENTRAL,Tea,Masala Tea,3,252.38,757.14,New
+T101087,04/04/2024,South Point,Sandwich,Veg Sandwich,1,157.44,157.44,New
+T101088,15/03/2024,north hub,Snacks,Cookie,3,159.28,477.84,New
+T101089,27/04/2024,south point,Snacks,Brownie,2,187.89,375.78,Regular
+T101090,16/01/2024,Central,Pastry,Croissant,2,310.16,620.32,New
+T101091,08/01/2024,CENTRAL,Coffee,Americano,2,215.08,430.16,Regular
+T101092,04/01/2024,CENTRAL,Sandwich,Chicken Sandwich,3,263.3,789.9,Regular
+T101093,13/04/2024,SOUTH POINT,Snacks,Brownie,2,185.83,371.66,New
+T101094,04/01/2024,north hub,Pastry,Croissant,1,151.17,151.17,New
+T101095,25/02/2024,SOUTH POINT,Tea,Masala Tea,4,337.75,1351.0,Regular
+T101096,25/01/2024,SOUTH POINT,Snacks,Cookie,3,242.97,728.91,New
+T101097,07/03/2024,Central,Pastry,Muffin,2,332.17,664.34,New
+T101098,05/04/2024,central,Coffee,Espresso,1,134.92,134.92,Regular
+T101099,07/03/2024,north hub,Coffee,Cappuccino,4,119.66,478.64,New
+T101100,27/01/2024,North Hub,Snacks,Brownie,1,311.07,311.07,Regular
+T101101,02/04/2024,SOUTH POINT,Snacks,Bagel,2,263.85,527.7,New
+T101102,01/02/2024,South Point,Sandwich,Chicken Sandwich,1,130.38,130.38,Regular
+T101103,19/02/2024,NORTH HUB,Pastry,Danish,4,152.73,610.92,Regular
+T101104,01/03/2024,South Point,Snacks,Cookie,2,296.18,592.36,New
+T101105,20/02/2024,Central,Sandwich,Chicken Sandwich,4,202.54,810.16,Regular
+T101106,19/01/2024,Central,Sandwich,Cheese Sandwich,1,261.05,261.05,Regular
+T101107,21/01/2024,south point,Snacks,Cookie,3,165.96,497.88,New
+T101108,05/01/2024,central,Coffee,Cappuccino,3,182.93,548.79,New
+T101109,22/03/2024,SOUTH POINT,Pastry,Muffin,3,347.49,1042.47,New
+T101110,01/04/2024,South Point,Pastry,Croissant,3,146.86,440.58,Regular
+T101111,11/02/2024,NORTH HUB,Coffee,Espresso,4,216.74,866.96,Regular
+T101112,01/03/2024,Central,Snacks,Cookie,3,307.99,923.97,Regular
+T101113,22/01/2024,Central,Pastry,Muffin,4,144.59,578.36,New
+T101114,21/01/2024,central,Snacks,Bagel,2,192.11,384.22,Regular
+T101115,10/03/2024,NORTH HUB,Snacks,Brownie,3,246.07,738.21,Regular
+T101116,01/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,4,209.92,839.68,New
+T101117,05/01/2024,central,Coffee,Latte,3,204.07,612.21,Regular
+T101118,14/04/2024,Central,Snacks,Cookie,3,177.88,533.64,New
+T101119,12/01/2024,north hub,Tea,Black Tea,3,238.39,715.17,New
+T101120,30/03/2024,north hub,Coffee,Americano,4,248.58,994.32,New
+T101121,15/02/2024,central,Pastry,Muffin,1,256.39,256.39,Regular
+T101122,03/02/2024,NORTH HUB,Sandwich,Veg Sandwich,3,99.0,297.0,Regular
+T101123,18/02/2024,SOUTH POINT,Pastry,Danish,3,250.38,751.14,Regular
+T101124,18/03/2024,central,Pastry,Croissant,2,337.37,674.74,New
+T101125,30/03/2024,central,Coffee,Espresso,1,226.07,226.07,New
+T101126,14/02/2024,CENTRAL,Pastry,Croissant,4,273.12,1092.48,New
+T101127,27/01/2024,South Point,Snacks,Bagel,2,230.32,460.64,Regular
+T101128,13/03/2024,NORTH HUB,Pastry,Muffin,3,310.78,932.34,Regular
+T101129,26/01/2024,south point,Sandwich,Veg Sandwich,2,330.99,661.98,Regular
+T101130,16/02/2024,south point,Sandwich,Veg Sandwich,2,129.74,259.48,Regular
+T101131,26/03/2024,NORTH HUB,Tea,Green Tea,3,197.95,593.85,Regular
+T101132,20/04/2024,CENTRAL,Sandwich,Chicken Sandwich,1,185.94,185.94,New
+T101133,25/02/2024,CENTRAL,Pastry,Muffin,1,189.41,189.41,Regular
+T101134,03/04/2024,Central,Sandwich,Cheese Sandwich,2,113.89,227.78,New
+T101135,16/04/2024,South Point,Coffee,Latte,3,299.68,899.04,New
+T101136,03/03/2024,north hub,Sandwich,Cheese Sandwich,4,89.66,358.64,Regular
+T101137,17/02/2024,North Hub,Snacks,Bagel,2,222.62,445.24,New
+T101138,01/03/2024,North Hub,Coffee,Americano,4,258.71,1034.84,Regular
+T101139,21/03/2024,North Hub,Tea,Black Tea,2,136.02,272.04,Regular
+T101140,26/01/2024,NORTH HUB,Snacks,Bagel,2,324.58,649.16,New
+T101141,05/02/2024,south point,Pastry,Danish,3,306.41,919.23,Regular
+T101142,01/01/2024,south point,Pastry,Croissant,3,207.19,621.57,Regular
+T101143,08/01/2024,north hub,Pastry,Muffin,4,191.01,764.04,New
+T101144,22/04/2024,NORTH HUB,Snacks,Brownie,4,143.87,575.48,New
+T101145,08/04/2024,North Hub,Snacks,Bagel,1,277.1,277.1,New
+T101146,21/02/2024,SOUTH POINT,Snacks,Cookie,3,115.57,346.71,New
+T101147,19/03/2024,south point,Coffee,Espresso,2,263.66,527.32,New
+T101148,16/02/2024,Central,Coffee,Espresso,2,307.46,614.92,New
+T101149,25/02/2024,central,Pastry,Danish,1,141.69,141.69,Regular
+T101150,26/03/2024,SOUTH POINT,Sandwich,Veg Sandwich,3,313.94,941.82,Regular
+T101151,14/01/2024,south point,Pastry,Croissant,2,89.0,178.0,Regular
+T101152,30/03/2024,CENTRAL,Tea,Green Tea,1,326.45,326.45,New
+T101153,28/01/2024,south point,Coffee,Espresso,1,111.96,111.96,Regular
+T101154,27/03/2024,Central,Snacks,Brownie,2,254.35,508.7,New
+T101155,18/03/2024,North Hub,Coffee,Cappuccino,2,147.52,295.04,Regular
+T101156,28/03/2024,CENTRAL,Snacks,Bagel,4,305.87,1223.48,New
+T101157,02/01/2024,NORTH HUB,Tea,Green Tea,3,218.32,654.96,Regular
+T101158,18/04/2024,South Point,Tea,Black Tea,4,116.52,466.08,New
+T101159,26/01/2024,North Hub,Coffee,Cappuccino,1,234.17,234.17,New
+T101160,14/01/2024,South Point,Snacks,Cookie,2,190.13,380.26,New
+T101161,28/02/2024,SOUTH POINT,Tea,Green Tea,4,258.59,1034.36,New
+T101162,25/02/2024,central,Pastry,Danish,1,318.11,318.11,Regular
+T101163,24/04/2024,CENTRAL,Pastry,Danish,3,190.54,571.62,Regular
+T101164,07/01/2024,north hub,Snacks,Brownie,2,158.27,316.54,New
+T101165,03/01/2024,CENTRAL,Coffee,Latte,4,83.92,335.68,New
+T101166,20/04/2024,south point,Tea,Green Tea,3,235.21,705.63,New
+T101167,23/01/2024,south point,Coffee,Americano,4,188.61,754.44,Regular
+T101168,19/04/2024,south point,Pastry,Muffin,1,181.16,181.16,New
+T101169,16/04/2024,SOUTH POINT,Tea,Green Tea,3,129.39,388.17,New
+T101170,20/04/2024,North Hub,Coffee,Americano,4,196.11,784.44,Regular
+T101171,18/04/2024,north hub,Sandwich,Veg Sandwich,3,345.8,1037.4,New
+T101172,18/01/2024,north hub,Snacks,Brownie,1,160.39,160.39,New
+T101173,07/02/2024,south point,Snacks,Brownie,3,241.92,725.76,Regular
+T101174,08/04/2024,South Point,Sandwich,Chicken Sandwich,4,289.65,1158.6,New
+T101175,24/04/2024,SOUTH POINT,Pastry,Muffin,1,282.27,282.27,New
+T101176,15/01/2024,south point,Tea,Black Tea,2,168.77,337.54,Regular
+T101177,04/03/2024,central,Snacks,Brownie,4,244.93,979.72,New
+T101178,29/03/2024,North Hub,Sandwich,Chicken Sandwich,4,315.24,1260.96,Regular
+T101179,28/04/2024,NORTH HUB,Sandwich,Chicken Sandwich,1,84.17,84.17,New
+T101180,10/04/2024,central,Pastry,Muffin,1,197.65,197.65,New
+T101181,28/01/2024,South Point,Pastry,Croissant,2,140.55,281.1,New
+T101182,14/03/2024,CENTRAL,Coffee,Cappuccino,4,184.93,739.72,New
+T101183,08/02/2024,CENTRAL,Snacks,Cookie,1,192.32,192.32,New
+T101184,26/02/2024,central,Coffee,Espresso,2,281.6,563.2,Regular
+T101185,17/01/2024,south point,Sandwich,Chicken Sandwich,2,105.33,210.66,New
+T101186,12/04/2024,NORTH HUB,Tea,Masala Tea,1,218.4,218.4,New
+T101187,26/03/2024,Central,Tea,Black Tea,4,232.33,929.32,Regular
+T101188,30/03/2024,Central,Pastry,Muffin,3,213.42,640.26,Regular
+T101189,13/02/2024,South Point,Tea,Masala Tea,3,277.61,832.83,New
+T101190,25/01/2024,south point,Tea,Green Tea,2,183.62,367.24,Regular
+T101191,17/01/2024,north hub,Tea,Green Tea,3,335.14,1005.42,New
+T101192,13/01/2024,north hub,Sandwich,Cheese Sandwich,3,210.09,630.27,Regular
+T101193,24/03/2024,North Hub,Tea,Green Tea,1,234.23,234.23,Regular
+T101194,25/01/2024,NORTH HUB,Tea,Green Tea,2,302.89,605.78,New
+T101195,08/03/2024,NORTH HUB,Tea,Black Tea,4,154.31,617.24,Regular
+T101196,10/01/2024,CENTRAL,Coffee,Latte,2,100.3,200.6,New
+T101197,07/03/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,271.1,271.1,Regular
+T101198,14/04/2024,South Point,Pastry,Croissant,3,210.41,631.23,Regular
+T101199,18/04/2024,Central,Coffee,Cappuccino,4,322.06,1288.24,Regular
+T101200,18/01/2024,South Point,Snacks,Cookie,2,345.32,690.64,New
+T101201,20/04/2024,north hub,Sandwich,Cheese Sandwich,3,187.76,563.28,New
+T101202,09/04/2024,north hub,Sandwich,Veg Sandwich,2,192.17,384.34,Regular
+T101203,20/04/2024,central,Snacks,Brownie,4,190.15,760.6,New
+T101204,26/03/2024,North Hub,Snacks,Bagel,2,167.63,335.26,New
+T101205,03/02/2024,NORTH HUB,Snacks,Cookie,2,291.06,582.12,New
+T101206,20/04/2024,South Point,Pastry,Danish,2,284.93,569.86,Regular
+T101207,08/01/2024,north hub,Tea,Masala Tea,3,209.23,627.69,New
+T101208,09/02/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,92.06,368.24,Regular
+T101209,22/04/2024,CENTRAL,Tea,Black Tea,4,163.58,654.32,Regular
+T101210,17/04/2024,Central,Tea,Masala Tea,3,158.92,476.76,Regular
+T101211,23/03/2024,North Hub,Snacks,Brownie,3,298.99,896.97,Regular
+T101212,11/02/2024,SOUTH POINT,Pastry,Danish,3,103.65,310.95,Regular
+T101213,10/02/2024,North Hub,Coffee,Americano,1,297.53,297.53,New
+T101214,10/04/2024,central,Pastry,Muffin,2,260.68,521.36,New
+T101215,06/01/2024,north hub,Tea,Green Tea,2,277.76,555.52,Regular
+T101216,21/02/2024,CENTRAL,Pastry,Danish,4,196.7,786.8,New
+T101217,26/01/2024,SOUTH POINT,Snacks,Brownie,2,263.53,527.06,New
+T101218,04/03/2024,North Hub,Coffee,Espresso,1,244.44,244.44,New
+T101219,07/04/2024,NORTH HUB,Snacks,Brownie,3,287.62,862.86,New
+T101220,28/02/2024,central,Coffee,Latte,4,200.63,802.52,New
+T101221,25/02/2024,NORTH HUB,Tea,Black Tea,4,207.66,830.64,New
+T101222,28/02/2024,CENTRAL,Coffee,Cappuccino,2,253.77,507.54,New
+T101223,18/04/2024,SOUTH POINT,Coffee,Latte,4,109.18,436.72,Regular
+T101224,10/03/2024,central,Coffee,Cappuccino,3,197.79,593.37,Regular
+T101225,10/04/2024,SOUTH POINT,Pastry,Croissant,4,342.43,1369.72,Regular
+T101226,02/02/2024,north hub,Pastry,Danish,3,90.14,270.42,New
+T101227,22/02/2024,south point,Tea,Masala Tea,1,165.32,165.32,New
+T101228,22/01/2024,central,Coffee,Espresso,1,164.81,164.81,Regular
+T101229,21/01/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,251.04,753.12,New
+T101230,10/03/2024,CENTRAL,Tea,Green Tea,2,108.57,217.14,New
+T101231,10/03/2024,north hub,Coffee,Espresso,4,249.71,998.84,Regular
+T101232,28/04/2024,south point,Coffee,Cappuccino,2,105.66,211.32,Regular
+T101233,21/04/2024,Central,Pastry,Croissant,4,105.64,422.56,Regular
+T101234,04/01/2024,north hub,Tea,Masala Tea,1,276.61,276.61,New
+T101235,03/04/2024,CENTRAL,Coffee,Cappuccino,1,167.52,167.52,New
+T101236,15/03/2024,North Hub,Coffee,Americano,1,343.9,343.9,New
+T101237,02/03/2024,central,Tea,Masala Tea,4,90.09,360.36,Regular
+T101238,02/03/2024,SOUTH POINT,Sandwich,Veg Sandwich,1,200.18,200.18,Regular
+T101239,03/04/2024,CENTRAL,Tea,Masala Tea,1,110.55,110.55,New
+T101240,04/04/2024,central,Tea,Masala Tea,1,174.87,174.87,Regular
+T101241,24/01/2024,SOUTH POINT,Sandwich,Veg Sandwich,1,349.52,349.52,Regular
+T101242,24/02/2024,South Point,Tea,Black Tea,2,319.99,639.98,New
+T101243,09/01/2024,NORTH HUB,Coffee,Americano,1,93.05,93.05,Regular
+T101244,28/04/2024,Central,Tea,Masala Tea,1,232.08,232.08,Regular
+T101245,03/01/2024,north hub,Sandwich,Veg Sandwich,2,254.91,509.82,Regular
+T101246,24/04/2024,CENTRAL,Snacks,Bagel,2,136.57,273.14,New
+T101247,31/01/2024,Central,Tea,Black Tea,4,119.18,476.72,New
+T101248,09/02/2024,North Hub,Pastry,Danish,3,324.18,972.54,Regular
+T101249,10/04/2024,central,Coffee,Latte,1,341.58,341.58,New
+T101250,05/02/2024,central,Coffee,Latte,1,347.81,347.81,New
+T101251,24/01/2024,CENTRAL,Pastry,Muffin,1,293.24,293.24,New
+T101252,04/04/2024,south point,Pastry,Danish,4,259.15,1036.6,Regular
+T101253,06/01/2024,south point,Tea,Masala Tea,1,173.35,173.35,New
+T101254,06/03/2024,South Point,Pastry,Croissant,3,126.28,378.84,Regular
+T101255,24/03/2024,NORTH HUB,Snacks,Cookie,2,101.32,202.64,Regular
+T101256,01/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,267.19,1068.76,New
+T101257,15/03/2024,North Hub,Pastry,Danish,2,291.88,583.76,Regular
+T101258,04/01/2024,Central,Pastry,Muffin,1,303.14,303.14,New
+T101259,19/03/2024,south point,Snacks,Brownie,1,326.72,326.72,New
+T101260,06/01/2024,South Point,Coffee,Cappuccino,1,317.58,317.58,Regular
+T101261,27/04/2024,South Point,Coffee,Espresso,3,349.93,1049.79,Regular
+T101262,22/04/2024,CENTRAL,Tea,Black Tea,3,145.9,437.7,New
+T101263,03/04/2024,North Hub,Snacks,Bagel,4,286.09,1144.36,New
+T101264,29/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,238.34,476.68,New
+T101265,11/04/2024,NORTH HUB,Sandwich,Veg Sandwich,1,150.54,150.54,New
+T101266,20/02/2024,north hub,Snacks,Bagel,1,345.11,345.11,Regular
+T101267,02/03/2024,CENTRAL,Sandwich,Chicken Sandwich,1,322.43,322.43,Regular
+T101268,26/02/2024,SOUTH POINT,Coffee,Cappuccino,1,114.7,114.7,Regular
+T101269,06/03/2024,north hub,Sandwich,Cheese Sandwich,3,87.06,261.18,New
+T101270,19/03/2024,north hub,Sandwich,Cheese Sandwich,2,265.85,531.7,Regular
+T101271,15/03/2024,North Hub,Snacks,Bagel,2,243.12,486.24,Regular
+T101272,08/01/2024,North Hub,Snacks,Bagel,4,332.67,1330.68,Regular
+T101273,26/01/2024,Central,Sandwich,Cheese Sandwich,3,143.18,429.54,Regular
+T101274,20/02/2024,South Point,Pastry,Muffin,1,102.78,102.78,New
+T101275,14/02/2024,SOUTH POINT,Snacks,Bagel,2,149.99,299.98,Regular
+T101276,13/02/2024,CENTRAL,Tea,Green Tea,2,85.11,170.22,Regular
+T101277,05/01/2024,central,Tea,Masala Tea,3,89.69,269.07,Regular
+T101278,10/03/2024,CENTRAL,Coffee,Americano,4,327.01,1308.04,Regular
+T101279,26/01/2024,Central,Sandwich,Veg Sandwich,4,175.04,700.16,New
+T101280,27/04/2024,NORTH HUB,Pastry,Danish,1,190.92,190.92,New
+T101281,08/03/2024,South Point,Coffee,Espresso,4,84.96,339.84,Regular
+T101282,19/01/2024,central,Sandwich,Cheese Sandwich,2,153.04,306.08,New
+T101283,24/03/2024,south point,Snacks,Bagel,4,297.28,1189.12,New
+T101284,06/04/2024,NORTH HUB,Tea,Masala Tea,1,246.18,246.18,New
+T101285,20/01/2024,North Hub,Pastry,Muffin,2,283.52,567.04,New
+T101286,22/04/2024,north hub,Tea,Black Tea,4,200.75,803.0,Regular
+T101287,12/01/2024,south point,Snacks,Cookie,4,163.63,654.52,New
+T101288,16/02/2024,CENTRAL,Sandwich,Veg Sandwich,3,210.36,631.08,New
+T101289,01/01/2024,CENTRAL,Snacks,Cookie,1,167.23,167.23,Regular
+T101290,30/03/2024,North Hub,Snacks,Cookie,4,306.52,1226.08,Regular
+T101291,14/01/2024,Central,Tea,Green Tea,3,160.37,481.11,Regular
+T101292,04/03/2024,SOUTH POINT,Pastry,Muffin,2,258.14,516.28,Regular
+T101293,07/02/2024,south point,Snacks,Bagel,3,116.99,350.97,New
+T101294,06/02/2024,south point,Tea,Green Tea,3,265.45,796.35,Regular
+T101295,11/01/2024,NORTH HUB,Pastry,Danish,4,326.59,1306.36,New
+T101296,09/04/2024,South Point,Sandwich,Veg Sandwich,4,244.32,977.28,New
+T101297,17/03/2024,NORTH HUB,Sandwich,Cheese Sandwich,4,231.16,924.64,Regular
+T101298,16/04/2024,SOUTH POINT,Coffee,Americano,3,339.5,1018.5,Regular
+T101299,03/01/2024,CENTRAL,Tea,Black Tea,2,249.4,498.8,New
+T101300,02/02/2024,CENTRAL,Pastry,Muffin,1,150.08,150.08,New
+T101301,06/01/2024,CENTRAL,Snacks,Bagel,3,158.95,476.85,Regular
+T101302,19/02/2024,CENTRAL,Sandwich,Chicken Sandwich,4,270.43,1081.72,Regular
+T101303,29/04/2024,SOUTH POINT,Pastry,Croissant,1,278.57,278.57,Regular
+T101304,10/01/2024,North Hub,Tea,Black Tea,2,161.94,323.88,New
+T101305,05/01/2024,South Point,Coffee,Cappuccino,1,173.24,173.24,New
+T101306,23/01/2024,SOUTH POINT,Sandwich,Veg Sandwich,4,347.59,1390.36,Regular
+T101307,10/01/2024,South Point,Pastry,Croissant,3,107.53,322.59,New
+T101308,13/02/2024,SOUTH POINT,Pastry,Danish,3,189.25,567.75,Regular
+T101309,02/01/2024,CENTRAL,Pastry,Croissant,4,96.86,387.44,New
+T101310,13/01/2024,North Hub,Tea,Masala Tea,3,301.69,905.07,New
+T101311,09/02/2024,south point,Tea,Green Tea,4,104.93,419.72,Regular
+T101312,02/01/2024,NORTH HUB,Tea,Green Tea,3,261.98,785.94,Regular
+T101313,24/03/2024,north hub,Snacks,Bagel,3,95.25,285.75,Regular
+T101314,05/03/2024,North Hub,Pastry,Muffin,3,261.67,785.01,New
+T101315,03/03/2024,south point,Sandwich,Veg Sandwich,2,307.62,615.24,New
+T101316,10/04/2024,Central,Tea,Masala Tea,2,187.68,375.36,Regular
+T101317,13/03/2024,SOUTH POINT,Tea,Masala Tea,4,220.97,883.88,New
+T101318,17/01/2024,Central,Pastry,Muffin,2,188.42,376.84,Regular
+T101319,09/01/2024,south point,Tea,Black Tea,4,161.13,644.52,New
+T101320,15/03/2024,North Hub,Snacks,Brownie,1,296.88,296.88,Regular
+T101321,15/01/2024,SOUTH POINT,Snacks,Bagel,1,153.44,153.44,New
+T101322,24/01/2024,north hub,Tea,Green Tea,2,275.19,550.38,New
+T101323,07/02/2024,CENTRAL,Pastry,Croissant,1,135.67,135.67,New
+T101324,28/04/2024,SOUTH POINT,Pastry,Danish,1,147.46,147.46,New
+T101325,04/02/2024,SOUTH POINT,Pastry,Muffin,3,170.84,512.52,Regular
+T101326,03/04/2024,North Hub,Coffee,Latte,3,239.07,717.21,New
+T101327,04/04/2024,North Hub,Tea,Green Tea,4,202.69,810.76,Regular
+T101328,18/02/2024,south point,Pastry,Danish,1,281.19,281.19,Regular
+T101329,09/03/2024,central,Snacks,Cookie,4,137.66,550.64,Regular
+T101330,02/03/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,82.88,331.52,Regular
+T101331,29/02/2024,NORTH HUB,Sandwich,Veg Sandwich,1,289.67,289.67,New
+T101332,17/04/2024,SOUTH POINT,Pastry,Croissant,2,301.85,603.7,Regular
+T101333,19/02/2024,south point,Sandwich,Cheese Sandwich,1,96.06,96.06,New
+T101334,18/03/2024,South Point,Sandwich,Veg Sandwich,3,244.95,734.85,New
+T101335,26/04/2024,Central,Coffee,Latte,1,182.12,182.12,New
+T101336,29/04/2024,CENTRAL,Snacks,Cookie,2,294.35,588.7,New
+T101337,15/03/2024,central,Snacks,Cookie,4,316.09,1264.36,Regular
+T101338,09/01/2024,north hub,Coffee,Latte,4,309.77,1239.08,New
+T101339,03/02/2024,north hub,Coffee,Cappuccino,3,289.85,869.55,Regular
+T101340,16/03/2024,north hub,Sandwich,Cheese Sandwich,3,152.64,457.92,New
+T101341,08/04/2024,North Hub,Tea,Green Tea,3,299.21,897.63,New
+T101342,04/02/2024,north hub,Sandwich,Veg Sandwich,4,224.04,896.16,Regular
+T101343,01/01/2024,CENTRAL,Coffee,Americano,3,94.24,282.72,New
+T101344,09/02/2024,Central,Snacks,Brownie,1,203.37,203.37,New
+T101345,04/03/2024,north hub,Sandwich,Cheese Sandwich,4,334.38,1337.52,New
+T101346,22/01/2024,SOUTH POINT,Tea,Masala Tea,2,319.72,639.44,New
+T101347,29/02/2024,SOUTH POINT,Sandwich,Veg Sandwich,4,107.61,430.44,New
+T101348,04/03/2024,North Hub,Pastry,Muffin,1,280.91,280.91,Regular
+T101349,02/04/2024,CENTRAL,Sandwich,Veg Sandwich,1,297.56,297.56,New
+T101350,12/03/2024,Central,Coffee,Espresso,3,153.27,459.81,New
+T101351,11/01/2024,central,Snacks,Brownie,4,207.33,829.32,Regular
+T101352,14/04/2024,south point,Snacks,Brownie,4,271.97,1087.88,New
+T101353,10/04/2024,Central,Coffee,Espresso,4,198.54,794.16,Regular
+T101354,14/01/2024,south point,Pastry,Muffin,2,110.46,220.92,New
+T101355,29/02/2024,South Point,Coffee,Espresso,3,270.59,811.77,New
+T101356,30/01/2024,south point,Sandwich,Chicken Sandwich,1,326.14,326.14,Regular
+T101357,04/02/2024,NORTH HUB,Coffee,Cappuccino,1,256.17,256.17,New
+T101358,25/03/2024,SOUTH POINT,Coffee,Americano,3,288.93,866.79,New
+T101359,06/02/2024,CENTRAL,Pastry,Croissant,1,176.76,176.76,Regular
+T101360,05/01/2024,North Hub,Sandwich,Chicken Sandwich,1,129.46,129.46,Regular
+T101361,23/03/2024,NORTH HUB,Tea,Black Tea,3,253.55,760.65,New
+T101362,18/03/2024,south point,Tea,Black Tea,1,168.5,168.5,Regular
+T101363,26/01/2024,north hub,Snacks,Bagel,4,312.22,1248.88,New
+T101364,02/03/2024,CENTRAL,Coffee,Americano,2,113.11,226.22,Regular
+T101365,04/01/2024,NORTH HUB,Snacks,Cookie,3,197.04,591.12,New
+T101366,29/03/2024,North Hub,Pastry,Croissant,2,187.12,374.24,Regular
+T101367,18/04/2024,SOUTH POINT,Tea,Green Tea,1,333.27,333.27,Regular
+T101368,11/02/2024,CENTRAL,Coffee,Latte,1,121.35,121.35,Regular
+T101369,29/03/2024,North Hub,Pastry,Croissant,4,82.66,330.64,Regular
+T101370,18/01/2024,South Point,Pastry,Muffin,3,144.28,432.84,Regular
+T101371,09/02/2024,South Point,Coffee,Espresso,1,301.47,301.47,Regular
+T101372,12/03/2024,North Hub,Pastry,Danish,3,136.52,409.56,Regular
+T101373,08/02/2024,NORTH HUB,Coffee,Espresso,3,145.04,435.12,Regular
+T101374,13/04/2024,CENTRAL,Coffee,Americano,3,115.07,345.21,Regular
+T101375,14/01/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,273.17,819.51,New
+T101376,01/02/2024,central,Snacks,Cookie,3,98.68,296.04,Regular
+T101377,20/02/2024,south point,Pastry,Danish,2,169.43,338.86,New
+T101378,07/02/2024,central,Pastry,Muffin,4,156.27,625.08,Regular
+T101379,06/04/2024,South Point,Sandwich,Veg Sandwich,3,229.89,689.67,New
+T101380,23/01/2024,SOUTH POINT,Sandwich,Veg Sandwich,2,277.21,554.42,New
+T101381,03/03/2024,Central,Sandwich,Cheese Sandwich,1,223.88,223.88,Regular
+T101382,15/01/2024,south point,Tea,Masala Tea,3,331.38,994.14,Regular
+T101383,06/04/2024,South Point,Tea,Black Tea,1,336.89,336.89,New
+T101384,25/01/2024,NORTH HUB,Tea,Green Tea,3,177.6,532.8,New
+T101385,17/01/2024,NORTH HUB,Coffee,Americano,2,289.97,579.94,Regular
+T101386,06/04/2024,NORTH HUB,Pastry,Danish,2,279.48,558.96,Regular
+T101387,20/04/2024,SOUTH POINT,Snacks,Cookie,2,321.1,642.2,Regular
+T101388,28/04/2024,central,Coffee,Cappuccino,4,200.94,803.76,New
+T101389,06/03/2024,Central,Pastry,Muffin,1,223.23,223.23,Regular
+T101390,18/03/2024,NORTH HUB,Pastry,Muffin,4,192.26,769.04,Regular
+T101391,22/02/2024,south point,Sandwich,Veg Sandwich,3,309.6,928.8,Regular
+T101392,13/04/2024,CENTRAL,Sandwich,Veg Sandwich,1,142.02,142.02,Regular
+T101393,13/04/2024,Central,Coffee,Americano,2,144.72,289.44,Regular
+T101394,20/02/2024,SOUTH POINT,Sandwich,Veg Sandwich,1,180.6,180.6,New
+T101395,08/02/2024,Central,Pastry,Muffin,2,142.19,284.38,New
+T101396,20/02/2024,CENTRAL,Sandwich,Cheese Sandwich,4,231.47,925.88,Regular
+T101397,10/03/2024,south point,Tea,Masala Tea,4,116.31,465.24,Regular
+T101398,06/01/2024,CENTRAL,Sandwich,Veg Sandwich,2,166.45,332.9,New
+T101399,07/03/2024,North Hub,Pastry,Croissant,2,326.63,653.26,Regular
+T101400,07/01/2024,south point,Coffee,Cappuccino,3,190.49,571.47,New
+T101401,20/02/2024,Central,Snacks,Brownie,4,282.02,1128.08,Regular
+T101402,12/03/2024,NORTH HUB,Sandwich,Veg Sandwich,4,110.63,442.52,New
+T101403,11/02/2024,Central,Pastry,Croissant,3,146.84,440.52,New
+T101404,04/03/2024,Central,Snacks,Bagel,4,297.98,1191.92,Regular
+T101405,25/04/2024,south point,Snacks,Cookie,2,286.01,572.02,New
+T101406,15/01/2024,North Hub,Tea,Green Tea,1,184.26,184.26,Regular
+T101407,20/04/2024,Central,Snacks,Bagel,1,337.69,337.69,New
+T101408,29/01/2024,South Point,Pastry,Croissant,4,325.87,1303.48,Regular
+T101409,02/02/2024,north hub,Pastry,Danish,3,339.82,1019.46,Regular
+T101410,25/04/2024,north hub,Sandwich,Veg Sandwich,2,195.54,391.08,Regular
+T101411,03/04/2024,Central,Sandwich,Cheese Sandwich,1,133.32,133.32,New
+T101412,12/04/2024,NORTH HUB,Sandwich,Veg Sandwich,2,249.2,498.4,Regular
+T101413,27/01/2024,SOUTH POINT,Snacks,Cookie,4,264.89,1059.56,Regular
+T101414,05/02/2024,SOUTH POINT,Snacks,Brownie,4,113.87,455.48,Regular
+T101415,29/01/2024,south point,Tea,Black Tea,1,292.35,292.35,New
+T101416,07/02/2024,north hub,Sandwich,Veg Sandwich,4,84.88,339.52,Regular
+T101417,26/02/2024,Central,Coffee,Latte,3,210.34,631.02,New
+T101418,06/04/2024,SOUTH POINT,Tea,Green Tea,4,169.37,677.48,New
+T101419,10/04/2024,Central,Coffee,Americano,4,279.88,1119.52,New
+T101420,27/01/2024,south point,Snacks,Bagel,4,164.45,657.8,Regular
+T101421,24/02/2024,north hub,Tea,Black Tea,2,303.24,606.48,Regular
+T101422,02/02/2024,CENTRAL,Tea,Masala Tea,2,240.64,481.28,New
+T101423,08/03/2024,South Point,Pastry,Danish,1,294.35,294.35,Regular
+T101424,26/03/2024,South Point,Snacks,Brownie,1,347.12,347.12,Regular
+T101425,06/03/2024,SOUTH POINT,Snacks,Brownie,1,263.37,263.37,New
+T101426,10/01/2024,South Point,Tea,Green Tea,4,345.94,1383.76,New
+T101427,05/01/2024,CENTRAL,Snacks,Bagel,2,87.79,175.58,Regular
+T101428,14/03/2024,Central,Tea,Green Tea,3,171.3,513.9,New
+T101429,06/04/2024,south point,Pastry,Croissant,4,109.12,436.48,Regular
+T101430,27/04/2024,CENTRAL,Tea,Green Tea,4,150.82,603.28,New
+T101431,07/02/2024,south point,Snacks,Cookie,4,306.5,1226.0,Regular
+T101432,13/01/2024,south point,Snacks,Bagel,3,88.73,266.19,Regular
+T101433,31/01/2024,north hub,Tea,Black Tea,1,220.45,220.45,New
+T101434,16/02/2024,Central,Tea,Black Tea,3,233.12,699.36,Regular
+T101435,09/04/2024,South Point,Tea,Masala Tea,1,231.51,231.51,Regular
+T101436,18/04/2024,north hub,Sandwich,Cheese Sandwich,3,208.33,624.99,New
+T101437,28/03/2024,south point,Snacks,Cookie,2,293.46,586.92,Regular
+T101438,21/02/2024,SOUTH POINT,Snacks,Cookie,4,116.06,464.24,Regular
+T101439,25/02/2024,South Point,Sandwich,Cheese Sandwich,4,163.86,655.44,Regular
+T101440,15/01/2024,South Point,Tea,Green Tea,4,246.25,985.0,New
+T101441,29/01/2024,Central,Pastry,Croissant,1,266.56,266.56,New
+T101442,08/01/2024,North Hub,Tea,Black Tea,3,189.12,567.36,New
+T101443,05/01/2024,central,Tea,Black Tea,2,316.35,632.7,New
+T101444,29/01/2024,central,Sandwich,Chicken Sandwich,3,192.18,576.54,New
+T101445,16/02/2024,central,Snacks,Bagel,4,188.75,755.0,Regular
+T101446,08/03/2024,North Hub,Tea,Masala Tea,2,89.78,179.56,Regular
+T101447,16/03/2024,Central,Snacks,Bagel,2,228.81,457.62,Regular
+T101448,14/02/2024,North Hub,Coffee,Espresso,4,271.34,1085.36,New
+T101449,02/01/2024,central,Snacks,Brownie,3,110.9,332.7,Regular
+T101450,27/01/2024,north hub,Pastry,Danish,4,162.47,649.88,New
+T101451,04/04/2024,CENTRAL,Pastry,Muffin,3,290.94,872.82,Regular
+T101452,24/04/2024,south point,Tea,Green Tea,2,178.8,357.6,New
+T101453,24/04/2024,North Hub,Snacks,Cookie,2,145.23,290.46,Regular
+T101454,05/02/2024,Central,Tea,Black Tea,4,261.49,1045.96,Regular
+T101455,05/02/2024,Central,Sandwich,Cheese Sandwich,2,133.12,266.24,New
+T101456,26/01/2024,CENTRAL,Pastry,Croissant,1,321.83,321.83,Regular
+T101457,12/02/2024,SOUTH POINT,Tea,Black Tea,2,108.51,217.02,Regular
+T101458,27/01/2024,South Point,Sandwich,Veg Sandwich,1,270.77,270.77,New
+T101459,09/03/2024,central,Tea,Masala Tea,2,214.88,429.76,Regular
+T101460,20/01/2024,SOUTH POINT,Snacks,Brownie,4,314.88,1259.52,Regular
+T101461,11/01/2024,central,Snacks,Brownie,4,114.07,456.28,New
+T101462,14/03/2024,CENTRAL,Snacks,Cookie,1,263.03,263.03,New
+T101463,13/04/2024,central,Snacks,Brownie,4,234.45,937.8,New
+T101464,07/02/2024,CENTRAL,Coffee,Espresso,2,209.62,419.24,New
+T101465,06/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,212.68,425.36,New
+T101466,12/03/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,274.93,1099.72,Regular
+T101467,23/01/2024,SOUTH POINT,Snacks,Brownie,2,333.19,666.38,New
+T101468,16/02/2024,South Point,Coffee,Latte,3,104.64,313.92,New
+T101469,30/03/2024,CENTRAL,Snacks,Cookie,3,85.27,255.81,Regular
+T101470,15/02/2024,North Hub,Coffee,Espresso,2,297.54,595.08,Regular
+T101471,16/04/2024,NORTH HUB,Snacks,Bagel,4,109.21,436.84,Regular
+T101472,12/01/2024,north hub,Pastry,Muffin,1,346.41,346.41,Regular
+T101473,30/03/2024,central,Pastry,Croissant,4,247.22,988.88,Regular
+T101474,13/01/2024,NORTH HUB,Tea,Masala Tea,1,255.73,255.73,New
+T101475,13/04/2024,CENTRAL,Snacks,Bagel,4,133.7,534.8,Regular
+T101476,02/03/2024,south point,Sandwich,Cheese Sandwich,2,144.88,289.76,New
+T101477,22/03/2024,central,Tea,Black Tea,3,258.02,774.06,Regular
+T101478,29/03/2024,Central,Pastry,Croissant,4,325.63,1302.52,New
+T101479,06/04/2024,SOUTH POINT,Snacks,Brownie,1,345.25,345.25,Regular
+T101480,20/04/2024,CENTRAL,Tea,Black Tea,3,133.47,400.41,New
+T101481,13/04/2024,Central,Snacks,Brownie,1,116.21,116.21,New
+T101482,29/02/2024,South Point,Pastry,Danish,2,95.23,190.46,New
+T101483,12/02/2024,north hub,Tea,Green Tea,3,314.44,943.32,New
+T101484,16/03/2024,north hub,Pastry,Danish,1,159.57,159.57,New
+T101485,17/04/2024,Central,Coffee,Latte,4,80.49,321.96,New
+T101486,09/04/2024,SOUTH POINT,Pastry,Danish,2,140.43,280.86,New
+T101487,21/04/2024,South Point,Snacks,Bagel,2,171.92,343.84,New
+T101488,08/03/2024,south point,Sandwich,Veg Sandwich,2,347.57,695.14,New
+T101489,05/01/2024,SOUTH POINT,Pastry,Croissant,4,221.36,885.44,New
+T101490,29/04/2024,NORTH HUB,Sandwich,Veg Sandwich,4,135.27,541.08,Regular
+T101491,06/02/2024,north hub,Coffee,Espresso,3,170.4,511.2,New
+T101492,12/03/2024,NORTH HUB,Tea,Green Tea,4,169.18,676.72,New
+T101493,15/04/2024,central,Tea,Green Tea,3,85.33,255.99,Regular
+T101494,22/04/2024,North Hub,Sandwich,Chicken Sandwich,2,116.5,233.0,New
+T101495,01/04/2024,CENTRAL,Tea,Black Tea,3,267.7,803.1,New
+T101496,31/01/2024,South Point,Pastry,Danish,1,112.47,112.47,Regular
+T101497,09/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,2,142.3,284.6,Regular
+T101498,27/04/2024,north hub,Snacks,Cookie,2,174.7,349.4,New
+T101499,20/02/2024,NORTH HUB,Pastry,Danish,3,284.59,853.77,Regular
+T101500,29/01/2024,central,Pastry,Muffin,2,237.25,474.5,New
+T101501,18/03/2024,CENTRAL,Pastry,Muffin,4,266.03,1064.12,New
+T101502,09/02/2024,CENTRAL,Snacks,Cookie,1,233.09,233.09,New
+T101503,10/02/2024,SOUTH POINT,Coffee,Americano,3,264.57,793.71,Regular
+T101504,26/03/2024,South Point,Tea,Black Tea,3,80.77,242.31,New
+T101505,11/01/2024,south point,Sandwich,Chicken Sandwich,2,331.34,662.68,New
+T101506,23/01/2024,SOUTH POINT,Coffee,Cappuccino,4,109.95,439.8,Regular
+T101507,01/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,189.69,379.38,New
+T101508,15/02/2024,North Hub,Tea,Green Tea,2,288.18,576.36,New
+T101509,10/04/2024,Central,Snacks,Brownie,3,197.51,592.53,New
+T101510,21/01/2024,south point,Pastry,Muffin,2,335.65,671.3,New
+T101511,30/03/2024,South Point,Pastry,Muffin,1,206.25,206.25,New
+T101512,19/04/2024,central,Snacks,Bagel,2,316.23,632.46,New
+T101513,05/02/2024,south point,Coffee,Latte,2,298.92,597.84,Regular
+T101514,23/02/2024,north hub,Coffee,Latte,3,344.87,1034.61,New
+T101515,27/03/2024,South Point,Sandwich,Cheese Sandwich,2,330.17,660.34,New
+T101516,26/02/2024,North Hub,Snacks,Cookie,4,322.49,1289.96,Regular
+T101517,01/01/2024,north hub,Coffee,Americano,3,277.53,832.59,New
+T101518,03/03/2024,south point,Snacks,Cookie,2,179.09,358.18,New
+T101519,23/02/2024,Central,Tea,Black Tea,1,108.65,108.65,Regular
+T101520,24/02/2024,Central,Pastry,Danish,1,265.93,265.93,Regular
+T101521,24/04/2024,North Hub,Pastry,Croissant,3,344.24,1032.72,Regular
+T101522,09/02/2024,CENTRAL,Pastry,Danish,3,276.18,828.54,Regular
+T101523,15/01/2024,central,Snacks,Brownie,2,330.76,661.52,Regular
+T101524,21/01/2024,CENTRAL,Snacks,Cookie,4,297.16,1188.64,Regular
+T101525,16/02/2024,Central,Sandwich,Cheese Sandwich,2,124.04,248.08,Regular
+T101526,13/03/2024,Central,Pastry,Danish,1,147.29,147.29,New
+T101527,22/02/2024,NORTH HUB,Sandwich,Cheese Sandwich,4,172.3,689.2,New
+T101528,09/01/2024,north hub,Pastry,Muffin,4,125.43,501.72,New
+T101529,14/03/2024,south point,Sandwich,Veg Sandwich,4,237.05,948.2,Regular
+T101530,21/02/2024,central,Sandwich,Chicken Sandwich,2,343.37,686.74,New
+T101531,26/02/2024,North Hub,Tea,Masala Tea,1,285.59,285.59,Regular
+T101532,26/04/2024,south point,Sandwich,Cheese Sandwich,3,194.31,582.93,New
+T101533,26/01/2024,NORTH HUB,Snacks,Brownie,2,81.22,162.44,New
+T101534,10/02/2024,Central,Sandwich,Chicken Sandwich,3,164.58,493.74,New
+T101535,04/02/2024,North Hub,Pastry,Danish,4,222.23,888.92,New
+T101536,03/03/2024,Central,Sandwich,Chicken Sandwich,4,167.55,670.2,Regular
+T101537,25/04/2024,central,Coffee,Latte,2,109.98,219.96,Regular
+T101538,25/01/2024,north hub,Pastry,Danish,1,199.55,199.55,New
+T101539,30/03/2024,south point,Coffee,Cappuccino,4,148.38,593.52,Regular
+T101540,15/03/2024,south point,Pastry,Croissant,3,325.49,976.47,Regular
+T101541,07/02/2024,CENTRAL,Snacks,Cookie,3,107.47,322.41,New
+T101542,02/01/2024,North Hub,Snacks,Bagel,2,93.27,186.54,Regular
+T101543,07/01/2024,NORTH HUB,Snacks,Bagel,3,81.43,244.29,Regular
+T101544,22/03/2024,CENTRAL,Coffee,Americano,1,168.58,168.58,Regular
+T101545,31/03/2024,central,Tea,Green Tea,4,258.3,1033.2,Regular
+T101546,03/02/2024,NORTH HUB,Pastry,Croissant,3,277.21,831.63,New
+T101547,31/03/2024,north hub,Snacks,Bagel,3,202.38,607.14,New
+T101548,17/01/2024,north hub,Pastry,Croissant,4,264.77,1059.08,Regular
+T101549,12/02/2024,north hub,Coffee,Cappuccino,2,177.18,354.36,New
+T101550,28/02/2024,north hub,Tea,Masala Tea,3,260.31,780.93,New
+T101551,17/04/2024,CENTRAL,Coffee,Espresso,2,90.96,181.92,New
+T101552,20/02/2024,South Point,Pastry,Muffin,2,185.5,371.0,Regular
+T101553,23/02/2024,NORTH HUB,Tea,Masala Tea,3,293.53,880.59,Regular
+T101554,24/01/2024,North Hub,Tea,Masala Tea,1,296.81,296.81,New
+T101555,25/01/2024,central,Coffee,Americano,2,273.36,546.72,New
+T101556,11/03/2024,SOUTH POINT,Snacks,Bagel,3,135.14,405.42,Regular
+T101557,21/02/2024,Central,Pastry,Muffin,2,146.75,293.5,New
+T101558,10/03/2024,North Hub,Sandwich,Chicken Sandwich,4,348.94,1395.76,Regular
+T101559,26/04/2024,Central,Sandwich,Chicken Sandwich,1,107.91,107.91,New
+T101560,28/03/2024,NORTH HUB,Coffee,Cappuccino,1,128.78,128.78,Regular
+T101561,02/02/2024,North Hub,Pastry,Muffin,4,115.11,460.44,Regular
+T101562,18/02/2024,north hub,Pastry,Muffin,4,168.47,673.88,Regular
+T101563,29/01/2024,north hub,Coffee,Espresso,2,136.75,273.5,Regular
+T101564,03/03/2024,SOUTH POINT,Pastry,Danish,4,214.38,857.52,New
+T101565,16/04/2024,Central,Snacks,Cookie,1,208.53,208.53,Regular
+T101566,22/01/2024,central,Coffee,Espresso,4,323.41,1293.64,New
+T101567,26/01/2024,NORTH HUB,Snacks,Bagel,3,89.38,268.14,Regular
+T101568,28/01/2024,north hub,Pastry,Danish,3,166.37,499.11,Regular
+T101569,23/04/2024,South Point,Coffee,Americano,2,241.1,482.2,New
+T101570,25/03/2024,CENTRAL,Pastry,Danish,1,243.3,243.3,New
+T101571,18/02/2024,CENTRAL,Coffee,Cappuccino,3,209.63,628.89,New
+T101572,11/03/2024,central,Pastry,Danish,4,300.23,1200.92,Regular
+T101573,21/03/2024,CENTRAL,Snacks,Bagel,3,96.93,290.79,Regular
+T101574,24/03/2024,Central,Snacks,Cookie,3,300.18,900.54,New
+T101575,14/04/2024,north hub,Pastry,Muffin,2,213.58,427.16,Regular
+T101576,18/02/2024,north hub,Coffee,Latte,4,116.12,464.48,New
+T101577,20/01/2024,South Point,Sandwich,Chicken Sandwich,4,319.14,1276.56,Regular
+T101578,27/04/2024,North Hub,Snacks,Brownie,4,255.29,1021.16,Regular
+T101579,26/03/2024,CENTRAL,Snacks,Cookie,2,124.16,248.32,Regular
+T101580,01/04/2024,Central,Sandwich,Cheese Sandwich,4,89.09,356.36,New
+T101581,03/03/2024,south point,Pastry,Muffin,4,118.1,472.4,Regular
+T101582,01/03/2024,CENTRAL,Coffee,Latte,3,244.38,733.14,New
+T101583,13/04/2024,central,Pastry,Danish,3,128.41,385.23,New
+T101584,18/02/2024,North Hub,Tea,Masala Tea,4,140.96,563.84,Regular
+T101585,11/03/2024,CENTRAL,Snacks,Cookie,1,86.79,86.79,New
+T101586,01/01/2024,Central,Tea,Masala Tea,1,275.19,275.19,New
+T101587,05/04/2024,CENTRAL,Snacks,Brownie,4,298.8,1195.2,Regular
+T101588,13/01/2024,central,Snacks,Cookie,1,295.15,295.15,New
+T101589,03/04/2024,south point,Tea,Black Tea,2,114.44,228.88,New
+T101590,27/03/2024,NORTH HUB,Tea,Black Tea,3,323.89,971.67,Regular
+T101591,20/02/2024,SOUTH POINT,Pastry,Muffin,2,261.52,523.04,Regular
+T101592,25/02/2024,south point,Tea,Masala Tea,3,322.33,966.99,Regular
+T101593,23/03/2024,CENTRAL,Pastry,Muffin,1,200.73,200.73,New
+T101594,02/03/2024,north hub,Pastry,Danish,1,197.98,197.98,New
+T101595,01/02/2024,South Point,Pastry,Danish,4,291.82,1167.28,Regular
+T101596,30/01/2024,north hub,Snacks,Brownie,1,105.19,105.19,New
+T101597,29/01/2024,south point,Snacks,Brownie,1,220.64,220.64,Regular
+T101598,18/02/2024,north hub,Tea,Green Tea,4,305.82,1223.28,Regular
+T101599,14/02/2024,Central,Snacks,Bagel,4,304.15,1216.6,Regular
+T101600,02/04/2024,north hub,Tea,Green Tea,3,338.16,1014.48,New
+T101601,30/01/2024,North Hub,Snacks,Cookie,1,268.53,268.53,New
+T101602,16/01/2024,NORTH HUB,Coffee,Americano,3,136.1,408.3,Regular
+T101603,09/02/2024,CENTRAL,Coffee,Latte,3,85.48,256.44,Regular
+T101604,19/01/2024,north hub,Tea,Black Tea,2,209.44,418.88,New
+T101605,18/01/2024,central,Snacks,Brownie,1,218.7,218.7,Regular
+T101606,01/01/2024,NORTH HUB,Snacks,Cookie,1,144.87,144.87,New
+T101607,18/03/2024,NORTH HUB,Pastry,Danish,2,113.67,227.34,Regular
+T101608,24/04/2024,north hub,Sandwich,Veg Sandwich,3,238.28,714.84,Regular
+T101609,16/02/2024,NORTH HUB,Tea,Masala Tea,1,286.35,286.35,New
+T101610,23/04/2024,South Point,Sandwich,Veg Sandwich,3,348.15,1044.45,New
+T101611,06/03/2024,north hub,Sandwich,Cheese Sandwich,2,284.74,569.48,New
+T101612,27/04/2024,Central,Tea,Green Tea,4,294.28,1177.12,New
+T101613,01/04/2024,south point,Snacks,Bagel,3,246.44,739.32,New
+T101614,22/04/2024,North Hub,Tea,Green Tea,1,346.2,346.2,Regular
+T101615,23/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,4,252.79,1011.16,Regular
+T101616,03/04/2024,NORTH HUB,Snacks,Bagel,3,312.27,936.81,New
+T101617,07/02/2024,Central,Coffee,Cappuccino,3,335.36,1006.08,New
+T101618,20/02/2024,CENTRAL,Tea,Black Tea,4,331.06,1324.24,Regular
+T101619,03/03/2024,CENTRAL,Tea,Green Tea,4,182.98,731.92,Regular
+T101620,04/01/2024,North Hub,Snacks,Brownie,4,101.24,404.96,New
+T101621,01/01/2024,NORTH HUB,Coffee,Americano,1,126.41,126.41,New
+T101622,08/01/2024,South Point,Coffee,Americano,1,95.99,95.99,Regular
+T101623,29/01/2024,North Hub,Snacks,Cookie,3,108.46,325.38,New
+T101624,24/02/2024,NORTH HUB,Pastry,Danish,3,129.86,389.58,Regular
+T101625,12/04/2024,Central,Tea,Black Tea,2,172.1,344.2,Regular
+T101626,03/01/2024,south point,Tea,Green Tea,1,226.76,226.76,New
+T101627,01/02/2024,South Point,Sandwich,Veg Sandwich,3,272.15,816.45,Regular
+T101628,10/01/2024,SOUTH POINT,Snacks,Cookie,4,136.95,547.8,Regular
+T101629,14/03/2024,CENTRAL,Sandwich,Chicken Sandwich,4,261.58,1046.32,Regular
+T101630,23/03/2024,central,Sandwich,Veg Sandwich,1,270.15,270.15,New
+T101631,19/04/2024,Central,Coffee,Cappuccino,4,230.83,923.32,Regular
+T101632,03/02/2024,CENTRAL,Tea,Masala Tea,2,323.98,647.96,New
+T101633,06/04/2024,north hub,Sandwich,Veg Sandwich,3,109.97,329.91,Regular
+T101634,27/03/2024,central,Coffee,Americano,3,127.82,383.46,Regular
+T101635,24/02/2024,CENTRAL,Snacks,Brownie,3,195.74,587.22,Regular
+T101636,01/04/2024,North Hub,Sandwich,Cheese Sandwich,1,114.21,114.21,Regular
+T101637,01/02/2024,South Point,Tea,Green Tea,4,232.9,931.6,Regular
+T101638,19/02/2024,CENTRAL,Sandwich,Veg Sandwich,2,187.57,375.14,New
+T101639,07/01/2024,SOUTH POINT,Snacks,Cookie,1,156.84,156.84,New
+T101640,02/04/2024,south point,Sandwich,Veg Sandwich,3,125.9,377.7,Regular
+T101641,08/01/2024,North Hub,Tea,Green Tea,2,170.54,341.08,New
+T101642,05/03/2024,Central,Coffee,Americano,3,244.15,732.45,New
+T101643,26/02/2024,Central,Tea,Masala Tea,3,235.46,706.38,Regular
+T101644,28/04/2024,Central,Coffee,Americano,1,124.18,124.18,New
+T101645,07/03/2024,Central,Pastry,Danish,3,113.73,341.19,New
+T101646,28/03/2024,south point,Tea,Black Tea,2,87.2,174.4,New
+T101647,27/03/2024,CENTRAL,Tea,Masala Tea,3,83.35,250.05,New
+T101648,28/02/2024,NORTH HUB,Snacks,Cookie,4,317.55,1270.2,Regular
+T101649,12/03/2024,CENTRAL,Sandwich,Cheese Sandwich,3,92.17,276.51,New
+T101650,23/02/2024,north hub,Coffee,Cappuccino,1,277.43,277.43,Regular
+T101651,20/04/2024,South Point,Coffee,Cappuccino,2,315.44,630.88,Regular
+T101652,10/04/2024,central,Snacks,Bagel,1,106.48,106.48,New
+T101653,07/03/2024,NORTH HUB,Snacks,Bagel,4,197.8,791.2,Regular
+T101654,20/02/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,339.82,1019.46,New
+T101655,06/04/2024,CENTRAL,Sandwich,Veg Sandwich,1,305.22,305.22,Regular
+T101656,01/04/2024,NORTH HUB,Tea,Black Tea,1,212.22,212.22,New
+T101657,20/04/2024,north hub,Pastry,Danish,1,285.89,285.89,New
+T101658,08/01/2024,central,Sandwich,Veg Sandwich,1,305.01,305.01,Regular
+T101659,03/02/2024,SOUTH POINT,Snacks,Brownie,4,173.97,695.88,New
+T101660,04/02/2024,south point,Sandwich,Veg Sandwich,4,320.88,1283.52,New
+T101661,05/04/2024,CENTRAL,Coffee,Espresso,3,207.03,621.09,New
+T101662,28/03/2024,south point,Pastry,Croissant,3,222.51,667.53,New
+T101663,18/03/2024,SOUTH POINT,Tea,Green Tea,2,349.92,699.84,Regular
+T101664,01/02/2024,CENTRAL,Coffee,Americano,4,307.69,1230.76,Regular
+T101665,29/04/2024,CENTRAL,Coffee,Latte,1,177.68,177.68,Regular
+T101666,15/02/2024,central,Pastry,Croissant,1,82.79,82.79,New
+T101667,16/04/2024,south point,Tea,Green Tea,2,249.07,498.14,Regular
+T101668,16/01/2024,Central,Snacks,Cookie,1,270.06,270.06,New
+T101669,08/03/2024,south point,Tea,Green Tea,2,255.72,511.44,New
+T101670,25/04/2024,South Point,Sandwich,Cheese Sandwich,3,341.32,1023.96,New
+T101671,06/02/2024,South Point,Coffee,Cappuccino,4,313.0,1252.0,Regular
+T101672,23/02/2024,CENTRAL,Sandwich,Veg Sandwich,2,201.18,402.36,Regular
+T101673,25/03/2024,Central,Snacks,Cookie,1,96.97,96.97,Regular
+T101674,14/01/2024,North Hub,Sandwich,Cheese Sandwich,2,208.54,417.08,Regular
+T101675,04/04/2024,SOUTH POINT,Tea,Masala Tea,3,266.1,798.3,New
+T101676,24/02/2024,north hub,Sandwich,Cheese Sandwich,1,244.08,244.08,Regular
+T101677,17/02/2024,Central,Snacks,Brownie,3,225.3,675.9,Regular
+T101678,22/03/2024,north hub,Snacks,Cookie,3,206.58,619.74,Regular
+T101679,07/01/2024,south point,Snacks,Cookie,2,159.32,318.64,Regular
+T101680,14/03/2024,south point,Tea,Masala Tea,3,154.88,464.64,New
+T101681,07/01/2024,north hub,Snacks,Bagel,1,215.06,215.06,Regular
+T101682,02/02/2024,SOUTH POINT,Coffee,Americano,3,123.36,370.08,Regular
+T101683,23/01/2024,Central,Snacks,Bagel,3,171.99,515.97,Regular
+T101684,25/03/2024,North Hub,Sandwich,Cheese Sandwich,2,167.47,334.94,New
+T101685,19/01/2024,CENTRAL,Sandwich,Veg Sandwich,3,238.53,715.59,Regular
+T101686,21/04/2024,central,Sandwich,Cheese Sandwich,4,98.0,392.0,Regular
+T101687,19/01/2024,south point,Tea,Green Tea,2,304.01,608.02,Regular
+T101688,05/02/2024,South Point,Sandwich,Chicken Sandwich,2,231.84,463.68,New
+T101689,29/01/2024,SOUTH POINT,Tea,Masala Tea,1,261.12,261.12,New
+T101690,29/02/2024,central,Tea,Green Tea,1,269.84,269.84,Regular
+T101691,22/03/2024,North Hub,Snacks,Bagel,1,158.7,158.7,Regular
+T101692,02/01/2024,NORTH HUB,Coffee,Americano,1,207.0,207.0,New
+T101693,01/01/2024,CENTRAL,Snacks,Brownie,4,338.19,1352.76,New
+T101694,16/02/2024,south point,Snacks,Cookie,2,287.01,574.02,New
+T101695,09/03/2024,CENTRAL,Tea,Masala Tea,3,341.78,1025.34,New
+T101696,20/01/2024,central,Tea,Green Tea,1,281.49,281.49,New
+T101697,11/01/2024,CENTRAL,Sandwich,Cheese Sandwich,1,127.41,127.41,Regular
+T101698,15/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,1,97.42,97.42,Regular
+T101699,02/01/2024,central,Snacks,Brownie,3,235.97,707.91,Regular
+T101700,07/03/2024,south point,Pastry,Croissant,1,176.61,176.61,Regular
+T101701,27/03/2024,Central,Pastry,Danish,3,154.37,463.11,New
+T101702,28/04/2024,South Point,Sandwich,Chicken Sandwich,2,297.95,595.9,New
+T101703,12/01/2024,central,Pastry,Croissant,2,179.09,358.18,New
+T101704,20/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,2,165.59,331.18,New
+T101705,05/01/2024,central,Tea,Black Tea,4,309.5,1238.0,New
+T101706,06/02/2024,central,Snacks,Cookie,3,308.5,925.5,Regular
+T101707,07/02/2024,south point,Coffee,Latte,1,176.22,176.22,Regular
+T101708,03/04/2024,central,Snacks,Cookie,1,304.77,304.77,Regular
+T101709,09/01/2024,South Point,Sandwich,Chicken Sandwich,1,309.71,309.71,Regular
+T101710,07/04/2024,CENTRAL,Sandwich,Chicken Sandwich,1,194.46,194.46,Regular
+T101711,22/02/2024,south point,Snacks,Brownie,4,97.95,391.8,New
+T101712,13/02/2024,South Point,Sandwich,Cheese Sandwich,1,80.43,80.43,New
+T101713,08/04/2024,south point,Pastry,Croissant,4,221.29,885.16,New
+T101714,25/04/2024,South Point,Pastry,Croissant,3,172.9,518.7,New
+T101715,26/03/2024,NORTH HUB,Sandwich,Veg Sandwich,2,349.23,698.46,New
+T101716,17/04/2024,South Point,Sandwich,Veg Sandwich,1,288.55,288.55,Regular
+T101717,24/01/2024,north hub,Pastry,Croissant,2,285.54,571.08,Regular
+T101718,21/03/2024,South Point,Sandwich,Chicken Sandwich,3,337.92,1013.76,Regular
+T101719,14/03/2024,Central,Sandwich,Chicken Sandwich,3,319.69,959.07,New
+T101720,30/01/2024,Central,Snacks,Bagel,1,165.91,165.91,New
+T101721,29/04/2024,SOUTH POINT,Coffee,Espresso,3,124.82,374.46,New
+T101722,28/02/2024,north hub,Pastry,Danish,2,281.39,562.78,New
+T101723,19/04/2024,north hub,Snacks,Cookie,1,182.13,182.13,Regular
+T101724,27/03/2024,CENTRAL,Coffee,Latte,4,207.76,831.04,New
+T101725,05/04/2024,north hub,Sandwich,Chicken Sandwich,1,250.21,250.21,Regular
+T101726,21/03/2024,CENTRAL,Sandwich,Veg Sandwich,2,325.13,650.26,New
+T101727,23/04/2024,SOUTH POINT,Snacks,Brownie,1,193.15,193.15,Regular
+T101728,24/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,1,291.5,291.5,New
+T101729,21/03/2024,NORTH HUB,Tea,Black Tea,2,152.45,304.9,New
+T101730,14/01/2024,Central,Snacks,Bagel,1,268.45,268.45,Regular
+T101731,09/01/2024,South Point,Coffee,Americano,1,80.43,80.43,Regular
+T101732,09/02/2024,South Point,Snacks,Cookie,2,315.31,630.62,New
+T101733,06/03/2024,North Hub,Pastry,Danish,3,88.2,264.6,Regular
+T101734,18/04/2024,south point,Snacks,Cookie,2,272.44,544.88,New
+T101735,25/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,1,92.49,92.49,New
+T101736,12/04/2024,North Hub,Sandwich,Chicken Sandwich,4,151.89,607.56,Regular
+T101737,13/03/2024,North Hub,Tea,Black Tea,4,214.24,856.96,New
+T101738,27/04/2024,central,Tea,Green Tea,2,193.38,386.76,New
+T101739,22/01/2024,central,Tea,Masala Tea,4,131.8,527.2,Regular
+T101740,16/04/2024,North Hub,Coffee,Latte,1,170.13,170.13,New
+T101741,19/04/2024,north hub,Tea,Black Tea,1,276.48,276.48,New
+T101742,04/01/2024,south point,Coffee,Latte,2,260.7,521.4,New
+T101743,26/01/2024,NORTH HUB,Tea,Masala Tea,1,99.39,99.39,New
+T101744,27/02/2024,North Hub,Coffee,Latte,3,281.78,845.34,Regular
+T101745,29/01/2024,South Point,Snacks,Brownie,1,94.32,94.32,Regular
+T101746,18/04/2024,south point,Snacks,Brownie,2,226.59,453.18,Regular
+T101747,07/04/2024,central,Sandwich,Cheese Sandwich,3,150.22,450.66,New
+T101748,27/03/2024,South Point,Coffee,Espresso,3,238.68,716.04,Regular
+T101749,06/02/2024,central,Pastry,Danish,4,150.56,602.24,Regular
+T101750,15/03/2024,central,Sandwich,Veg Sandwich,1,345.94,345.94,Regular
+T101751,10/03/2024,south point,Snacks,Bagel,2,163.63,327.26,New
+T101752,18/01/2024,central,Coffee,Espresso,4,145.33,581.32,Regular
+T101753,25/03/2024,SOUTH POINT,Tea,Green Tea,4,155.19,620.76,Regular
+T101754,11/02/2024,Central,Pastry,Danish,1,322.05,322.05,New
+T101755,09/04/2024,SOUTH POINT,Snacks,Cookie,1,251.78,251.78,New
+T101756,10/02/2024,Central,Sandwich,Chicken Sandwich,2,277.28,554.56,New
+T101757,07/02/2024,central,Coffee,Espresso,4,327.86,1311.44,New
+T101758,03/02/2024,NORTH HUB,Pastry,Danish,2,326.21,652.42,New
+T101759,17/01/2024,NORTH HUB,Coffee,Latte,4,279.52,1118.08,New
+T101760,06/02/2024,Central,Tea,Black Tea,4,133.41,533.64,Regular
+T101761,25/01/2024,South Point,Sandwich,Chicken Sandwich,4,307.71,1230.84,Regular
+T101762,11/04/2024,south point,Coffee,Cappuccino,1,135.02,135.02,New
+T101763,16/03/2024,central,Snacks,Brownie,4,280.58,1122.32,New
+T101764,27/03/2024,south point,Sandwich,Cheese Sandwich,4,265.11,1060.44,Regular
+T101765,26/04/2024,SOUTH POINT,Snacks,Cookie,4,284.9,1139.6,New
+T101766,15/04/2024,NORTH HUB,Coffee,Espresso,3,223.83,671.49,New
+T101767,26/03/2024,north hub,Sandwich,Cheese Sandwich,1,252.46,252.46,Regular
+T101768,25/03/2024,SOUTH POINT,Snacks,Cookie,3,337.4,1012.2,New
+T101769,27/01/2024,SOUTH POINT,Tea,Green Tea,1,107.29,107.29,New
+T101770,26/02/2024,Central,Tea,Black Tea,2,163.39,326.78,Regular
+T101771,31/01/2024,CENTRAL,Coffee,Americano,3,245.07,735.21,Regular
+T101772,06/01/2024,SOUTH POINT,Sandwich,Chicken Sandwich,2,340.29,680.58,Regular
+T101773,31/03/2024,central,Pastry,Danish,4,105.81,423.24,Regular
+T101774,09/02/2024,North Hub,Sandwich,Cheese Sandwich,2,86.09,172.18,Regular
+T101775,07/04/2024,North Hub,Tea,Green Tea,2,95.05,190.1,New
+T101776,12/01/2024,central,Snacks,Brownie,2,94.15,188.3,New
+T101777,18/04/2024,CENTRAL,Pastry,Muffin,2,325.11,650.22,New
+T101778,22/02/2024,CENTRAL,Coffee,Espresso,1,274.74,274.74,New
+T101779,11/03/2024,Central,Pastry,Muffin,3,262.82,788.46,New
+T101780,10/01/2024,NORTH HUB,Coffee,Cappuccino,1,221.09,221.09,Regular
+T101781,14/02/2024,south point,Pastry,Danish,1,291.13,291.13,New
+T101782,17/01/2024,CENTRAL,Coffee,Americano,1,122.02,122.02,New
+T101783,26/01/2024,north hub,Coffee,Latte,2,185.82,371.64,New
+T101784,25/03/2024,Central,Pastry,Danish,1,212.3,212.3,New
+T101785,01/04/2024,South Point,Pastry,Croissant,3,109.81,329.43,New
+T101786,02/03/2024,Central,Coffee,Americano,1,193.27,193.27,Regular
+T101787,15/02/2024,SOUTH POINT,Tea,Black Tea,4,165.46,661.84,New
+T101788,04/03/2024,south point,Pastry,Croissant,2,89.61,179.22,New
+T101789,02/01/2024,South Point,Sandwich,Chicken Sandwich,4,116.92,467.68,New
+T101790,23/02/2024,South Point,Snacks,Cookie,3,286.29,858.87,New
+T101791,16/04/2024,north hub,Coffee,Cappuccino,3,84.87,254.61,New
+T101792,05/03/2024,north hub,Coffee,Cappuccino,3,332.25,996.75,New
+T101793,20/02/2024,north hub,Snacks,Brownie,3,103.33,309.99,Regular
+T101794,22/02/2024,Central,Tea,Green Tea,1,295.79,295.79,New
+T101795,05/02/2024,south point,Snacks,Bagel,2,322.63,645.26,Regular
+T101796,24/04/2024,Central,Pastry,Danish,3,334.11,1002.33,Regular
+T101797,26/01/2024,North Hub,Snacks,Cookie,4,314.22,1256.88,New
+T101798,29/01/2024,SOUTH POINT,Coffee,Latte,3,157.64,472.92,New
+T101799,21/01/2024,SOUTH POINT,Snacks,Cookie,2,169.93,339.86,New
+T101800,11/01/2024,north hub,Sandwich,Cheese Sandwich,4,195.17,780.68,Regular
+T101801,09/02/2024,North Hub,Pastry,Danish,4,117.61,470.44,New
+T101802,11/01/2024,CENTRAL,Snacks,Bagel,4,86.01,344.04,New
+T101803,05/02/2024,CENTRAL,Coffee,Latte,1,314.66,314.66,New
+T101804,22/04/2024,north hub,Pastry,Danish,3,229.61,688.83,Regular
+T101805,28/02/2024,Central,Coffee,Espresso,1,244.36,244.36,Regular
+T101806,08/02/2024,north hub,Tea,Black Tea,4,330.29,1321.16,New
+T101807,13/04/2024,NORTH HUB,Sandwich,Cheese Sandwich,1,259.58,259.58,Regular
+T101808,08/04/2024,South Point,Tea,Black Tea,1,266.53,266.53,New
+T101809,23/02/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,292.48,292.48,Regular
+T101810,07/04/2024,CENTRAL,Snacks,Bagel,3,111.41,334.23,New
+T101811,24/02/2024,central,Pastry,Croissant,4,177.24,708.96,Regular
+T101812,20/04/2024,CENTRAL,Snacks,Brownie,4,341.42,1365.68,New
+T101813,24/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,3,329.19,987.57,New
+T101814,27/04/2024,South Point,Sandwich,Chicken Sandwich,1,318.7,318.7,Regular
+T101815,22/01/2024,SOUTH POINT,Sandwich,Cheese Sandwich,1,202.06,202.06,Regular
+T101816,09/03/2024,central,Coffee,Cappuccino,2,311.44,622.88,Regular
+T101817,25/02/2024,north hub,Pastry,Danish,2,93.07,186.14,Regular
+T101818,02/02/2024,North Hub,Snacks,Cookie,2,120.1,240.2,Regular
+T101819,05/02/2024,central,Snacks,Cookie,3,191.77,575.31,New
+T101820,20/04/2024,SOUTH POINT,Tea,Masala Tea,4,210.52,842.08,New
+T101821,20/01/2024,SOUTH POINT,Sandwich,Veg Sandwich,2,151.15,302.3,Regular
+T101822,23/03/2024,NORTH HUB,Sandwich,Chicken Sandwich,4,176.25,705.0,New
+T101823,08/04/2024,NORTH HUB,Sandwich,Veg Sandwich,4,123.95,495.8,New
+T101824,25/04/2024,south point,Snacks,Brownie,4,212.07,848.28,Regular
+T101825,16/04/2024,NORTH HUB,Tea,Masala Tea,3,294.34,883.02,New
+T101826,21/03/2024,Central,Coffee,Latte,3,258.57,775.71,New
+T101827,02/03/2024,North Hub,Pastry,Muffin,3,109.1,327.3,Regular
+T101828,18/04/2024,South Point,Coffee,Espresso,3,211.65,634.95,Regular
+T101829,16/04/2024,central,Snacks,Bagel,2,268.36,536.72,New
+T101830,07/04/2024,SOUTH POINT,Sandwich,Chicken Sandwich,1,223.07,223.07,Regular
+T101831,13/03/2024,south point,Pastry,Muffin,1,185.75,185.75,New
+T101832,26/01/2024,south point,Snacks,Cookie,1,247.92,247.92,Regular
+T101833,06/03/2024,South Point,Snacks,Brownie,2,341.53,683.06,Regular
+T101834,26/04/2024,North Hub,Snacks,Brownie,1,105.63,105.63,Regular
+T101835,13/03/2024,central,Pastry,Danish,2,185.3,370.6,Regular
+T101836,13/03/2024,CENTRAL,Pastry,Muffin,2,189.78,379.56,New
+T101837,09/02/2024,NORTH HUB,Tea,Green Tea,2,235.78,471.56,Regular
+T101838,17/01/2024,north hub,Tea,Black Tea,1,121.09,121.09,Regular
+T101839,01/01/2024,south point,Coffee,Latte,4,127.69,510.76,New
+T101840,29/03/2024,NORTH HUB,Pastry,Croissant,1,157.05,157.05,New
+T101841,01/03/2024,NORTH HUB,Pastry,Muffin,1,338.08,338.08,New
+T101842,12/02/2024,Central,Pastry,Muffin,3,278.21,834.63,New
+T101843,13/04/2024,North Hub,Tea,Green Tea,2,258.66,517.32,Regular
+T101844,11/02/2024,north hub,Snacks,Brownie,4,300.58,1202.32,New
+T101845,25/01/2024,CENTRAL,Sandwich,Veg Sandwich,3,114.45,343.35,Regular
+T101846,08/02/2024,SOUTH POINT,Tea,Masala Tea,4,312.02,1248.08,New
+T101847,04/02/2024,Central,Pastry,Muffin,4,240.6,962.4,Regular
+T101848,03/01/2024,NORTH HUB,Tea,Black Tea,2,170.54,341.08,New
+T101849,23/04/2024,NORTH HUB,Coffee,Americano,1,300.28,300.28,Regular
+T101850,10/04/2024,north hub,Pastry,Muffin,2,296.69,593.38,Regular
+T101851,17/04/2024,north hub,Coffee,Americano,2,308.34,616.68,New
+T101852,13/02/2024,north hub,Pastry,Croissant,3,111.19,333.57,Regular
+T101853,20/02/2024,NORTH HUB,Tea,Masala Tea,2,341.73,683.46,Regular
+T101854,03/04/2024,south point,Snacks,Bagel,1,339.1,339.1,Regular
+T101855,11/04/2024,central,Sandwich,Cheese Sandwich,4,176.52,706.08,Regular
+T101856,07/04/2024,NORTH HUB,Coffee,Americano,2,97.79,195.58,New
+T101857,12/01/2024,Central,Tea,Green Tea,4,125.11,500.44,Regular
+T101858,19/01/2024,North Hub,Snacks,Brownie,2,348.06,696.12,Regular
+T101859,10/04/2024,CENTRAL,Tea,Black Tea,4,232.01,928.04,New
+T101860,13/02/2024,SOUTH POINT,Coffee,Americano,2,176.29,352.58,New
+T101861,28/02/2024,CENTRAL,Sandwich,Cheese Sandwich,3,157.81,473.43,New
+T101862,18/02/2024,NORTH HUB,Tea,Black Tea,4,149.39,597.56,Regular
+T101863,01/03/2024,Central,Pastry,Croissant,2,259.32,518.64,Regular
+T101864,17/01/2024,NORTH HUB,Snacks,Bagel,2,193.23,386.46,New
+T101865,14/03/2024,North Hub,Tea,Black Tea,3,340.66,1021.98,Regular
+T101866,26/02/2024,south point,Snacks,Brownie,3,264.64,793.92,New
+T101867,24/02/2024,SOUTH POINT,Pastry,Muffin,3,293.85,881.55,Regular
+T101868,22/04/2024,North Hub,Sandwich,Chicken Sandwich,4,159.04,636.16,New
+T101869,16/02/2024,NORTH HUB,Sandwich,Cheese Sandwich,4,101.38,405.52,Regular
+T101870,12/01/2024,Central,Pastry,Muffin,3,211.71,635.13,New
+T101871,02/03/2024,North Hub,Snacks,Cookie,1,164.94,164.94,Regular
+T101872,20/03/2024,South Point,Tea,Masala Tea,1,134.56,134.56,New
+T101873,28/03/2024,Central,Pastry,Muffin,2,337.21,674.42,Regular
+T101874,23/03/2024,south point,Coffee,Cappuccino,1,199.88,199.88,Regular
+T101875,08/01/2024,NORTH HUB,Snacks,Cookie,2,127.17,254.34,Regular
+T101876,04/04/2024,north hub,Sandwich,Chicken Sandwich,4,133.64,534.56,New
+T101877,21/01/2024,SOUTH POINT,Pastry,Croissant,4,155.79,623.16,Regular
+T101878,21/03/2024,central,Sandwich,Cheese Sandwich,1,349.82,349.82,Regular
+T101879,27/03/2024,north hub,Snacks,Brownie,4,152.36,609.44,Regular
+T101880,10/04/2024,NORTH HUB,Sandwich,Veg Sandwich,3,168.78,506.34,New
+T101881,27/04/2024,South Point,Pastry,Danish,3,258.02,774.06,Regular
+T101882,20/03/2024,north hub,Snacks,Cookie,1,159.37,159.37,New
+T101883,10/03/2024,SOUTH POINT,Coffee,Espresso,1,138.27,138.27,Regular
+T101884,12/03/2024,Central,Pastry,Danish,2,122.83,245.66,New
+T101885,25/01/2024,South Point,Tea,Masala Tea,4,164.42,657.68,New
+T101886,22/03/2024,South Point,Pastry,Danish,2,108.6,217.2,Regular
+T101887,29/03/2024,North Hub,Snacks,Brownie,2,85.03,170.06,New
+T101888,12/01/2024,SOUTH POINT,Pastry,Muffin,3,297.25,891.75,New
+T101889,15/01/2024,north hub,Coffee,Latte,3,117.23,351.69,Regular
+T101890,28/02/2024,North Hub,Coffee,Cappuccino,3,289.51,868.53,New
+T101891,26/01/2024,South Point,Tea,Masala Tea,3,295.34,886.02,New
+T101892,14/04/2024,North Hub,Sandwich,Veg Sandwich,2,225.24,450.48,New
+T101893,18/04/2024,CENTRAL,Snacks,Brownie,3,163.61,490.83,New
+T101894,26/01/2024,SOUTH POINT,Snacks,Brownie,4,119.16,476.64,Regular
+T101895,16/02/2024,south point,Sandwich,Cheese Sandwich,3,278.94,836.82,New
+T101896,01/02/2024,Central,Coffee,Latte,3,242.37,727.11,New
+T101897,10/01/2024,South Point,Coffee,Latte,3,256.97,770.91,Regular
+T101898,16/01/2024,SOUTH POINT,Pastry,Muffin,1,82.34,82.34,Regular
+T101899,11/03/2024,south point,Tea,Green Tea,4,330.43,1321.72,New
+T101900,17/01/2024,south point,Tea,Masala Tea,4,97.9,391.6,Regular
+T101901,23/01/2024,NORTH HUB,Tea,Green Tea,2,179.04,358.08,Regular
+T101902,26/01/2024,North Hub,Pastry,Muffin,2,188.73,377.46,Regular
+T101903,25/03/2024,south point,Tea,Green Tea,3,80.37,241.11,Regular
+T101904,26/03/2024,CENTRAL,Sandwich,Chicken Sandwich,1,214.21,214.21,Regular
+T101905,07/01/2024,SOUTH POINT,Pastry,Danish,2,283.26,566.52,Regular
+T101906,14/01/2024,central,Sandwich,Cheese Sandwich,2,302.28,604.56,Regular
+T101907,19/03/2024,central,Pastry,Croissant,3,317.44,952.32,Regular
+T101908,26/04/2024,South Point,Tea,Green Tea,3,211.68,635.04,Regular
+T101909,07/01/2024,North Hub,Sandwich,Chicken Sandwich,2,250.27,500.54,New
+T101910,09/01/2024,south point,Sandwich,Chicken Sandwich,2,101.47,202.94,New
+T101911,24/04/2024,SOUTH POINT,Sandwich,Cheese Sandwich,4,211.77,847.08,New
+T101912,17/02/2024,South Point,Pastry,Muffin,1,121.8,121.8,New
+T101913,12/03/2024,north hub,Snacks,Brownie,4,179.8,719.2,New
+T101914,23/04/2024,south point,Tea,Green Tea,2,168.91,337.82,Regular
+T101915,28/02/2024,North Hub,Sandwich,Veg Sandwich,4,194.36,777.44,Regular
+T101916,27/03/2024,central,Snacks,Brownie,4,234.34,937.36,New
+T101917,02/04/2024,NORTH HUB,Tea,Green Tea,2,323.78,647.56,New
+T101918,22/03/2024,SOUTH POINT,Tea,Black Tea,3,186.51,559.53,Regular
+T101919,04/04/2024,Central,Sandwich,Cheese Sandwich,2,344.91,689.82,New
+T101920,03/04/2024,South Point,Sandwich,Veg Sandwich,3,284.94,854.82,Regular
+T101921,25/04/2024,SOUTH POINT,Pastry,Muffin,2,218.1,436.2,New
+T101922,08/02/2024,SOUTH POINT,Snacks,Brownie,2,253.89,507.78,Regular
+T101923,08/04/2024,CENTRAL,Snacks,Bagel,2,107.6,215.2,New
+T101924,18/01/2024,north hub,Sandwich,Veg Sandwich,1,308.02,308.02,Regular
+T101925,28/02/2024,south point,Tea,Black Tea,3,237.24,711.72,New
+T101926,15/04/2024,south point,Sandwich,Cheese Sandwich,1,346.24,346.24,New
+T101927,12/04/2024,North Hub,Tea,Green Tea,2,251.84,503.68,Regular
+T101928,17/01/2024,Central,Tea,Green Tea,4,305.21,1220.84,Regular
+T101929,14/01/2024,Central,Sandwich,Chicken Sandwich,1,295.94,295.94,New
+T101930,31/01/2024,North Hub,Coffee,Cappuccino,3,173.27,519.81,New
+T101931,24/01/2024,NORTH HUB,Snacks,Cookie,2,150.09,300.18,Regular
+T101932,08/04/2024,south point,Tea,Green Tea,1,196.23,196.23,Regular
+T101933,17/04/2024,NORTH HUB,Tea,Black Tea,4,206.16,824.64,Regular
+T101934,29/02/2024,SOUTH POINT,Coffee,Latte,1,144.82,144.82,New
+T101935,14/02/2024,SOUTH POINT,Pastry,Muffin,3,321.54,964.62,New
+T101936,07/04/2024,central,Coffee,Latte,1,226.49,226.49,Regular
+T101937,03/01/2024,Central,Coffee,Espresso,4,344.18,1376.72,New
+T101938,06/02/2024,central,Tea,Green Tea,4,298.7,1194.8,New
+T101939,12/02/2024,north hub,Snacks,Brownie,3,230.04,690.12,Regular
+T101940,09/02/2024,North Hub,Coffee,Cappuccino,4,335.7,1342.8,New
+T101941,30/03/2024,North Hub,Pastry,Croissant,2,216.32,432.64,Regular
+T101942,24/02/2024,SOUTH POINT,Sandwich,Cheese Sandwich,4,319.52,1278.08,Regular
+T101943,27/03/2024,south point,Coffee,Latte,2,176.7,353.4,New
+T101944,17/04/2024,NORTH HUB,Coffee,Latte,1,182.23,182.23,New
+T101945,08/02/2024,Central,Pastry,Croissant,2,192.9,385.8,Regular
+T101946,15/01/2024,central,Snacks,Cookie,2,227.59,455.18,Regular
+T101947,29/04/2024,NORTH HUB,Coffee,Espresso,1,229.44,229.44,Regular
+T101948,22/04/2024,central,Coffee,Cappuccino,4,214.03,856.12,New
+T101949,04/01/2024,north hub,Snacks,Cookie,2,162.62,325.24,Regular
+T101950,02/04/2024,north hub,Pastry,Croissant,4,330.35,1321.4,Regular
+T101951,26/03/2024,NORTH HUB,Coffee,Latte,1,238.92,238.92,Regular
+T101952,25/01/2024,NORTH HUB,Snacks,Cookie,3,190.09,570.27,Regular
+T101953,13/01/2024,NORTH HUB,Coffee,Espresso,4,255.82,1023.28,New
+T101954,22/03/2024,central,Sandwich,Chicken Sandwich,4,287.35,1149.4,New
+T101955,02/02/2024,CENTRAL,Tea,Masala Tea,3,339.4,1018.2,Regular
+T101956,16/01/2024,NORTH HUB,Sandwich,Chicken Sandwich,3,214.88,644.64,New
+T101957,18/04/2024,south point,Coffee,Latte,1,110.27,110.27,New
+T101958,11/02/2024,Central,Pastry,Danish,4,199.01,796.04,New
+T101959,17/04/2024,Central,Tea,Masala Tea,4,209.32,837.28,Regular
+T101960,06/03/2024,central,Sandwich,Chicken Sandwich,1,322.19,322.19,New
+T101961,24/02/2024,NORTH HUB,Snacks,Brownie,4,186.6,746.4,New
+T101962,08/04/2024,SOUTH POINT,Pastry,Danish,2,337.4,674.8,Regular
+T101963,11/02/2024,North Hub,Sandwich,Veg Sandwich,2,210.99,421.98,Regular
+T101964,03/02/2024,CENTRAL,Snacks,Brownie,2,342.92,685.84,New
+T101965,30/01/2024,south point,Coffee,Espresso,4,82.21,328.84,New
+T101966,28/04/2024,SOUTH POINT,Snacks,Bagel,2,322.68,645.36,Regular
+T101967,13/01/2024,north hub,Sandwich,Veg Sandwich,2,331.4,662.8,Regular
+T101968,13/01/2024,SOUTH POINT,Sandwich,Veg Sandwich,1,339.48,339.48,Regular
+T101969,18/01/2024,central,Coffee,Americano,1,83.53,83.53,Regular
+T101970,01/02/2024,CENTRAL,Snacks,Brownie,3,126.36,379.08,New
+T101971,05/04/2024,South Point,Snacks,Cookie,3,256.52,769.56,Regular
+T101972,08/04/2024,South Point,Coffee,Espresso,3,86.88,260.64,New
+T101973,08/02/2024,NORTH HUB,Snacks,Bagel,3,97.17,291.51,New
+T101974,15/02/2024,NORTH HUB,Coffee,Cappuccino,1,139.69,139.69,New
+T101975,25/04/2024,central,Pastry,Muffin,1,218.36,218.36,Regular
+T101976,29/01/2024,NORTH HUB,Sandwich,Cheese Sandwich,1,227.39,227.39,Regular
+T101977,02/03/2024,North Hub,Pastry,Danish,2,89.25,178.5,New
+T101978,22/04/2024,CENTRAL,Tea,Masala Tea,2,126.0,252.0,New
+T101979,02/04/2024,central,Tea,Green Tea,3,214.92,644.76,New
+T101980,02/03/2024,Central,Tea,Masala Tea,2,240.36,480.72,New
+T101981,26/04/2024,north hub,Coffee,Espresso,4,120.07,480.28,New
+T101982,17/04/2024,central,Snacks,Brownie,1,187.69,187.69,Regular
+T101983,26/02/2024,central,Pastry,Danish,3,324.19,972.57,Regular
+T101984,16/01/2024,South Point,Pastry,Muffin,3,349.7,1049.1,Regular
+T101985,25/02/2024,south point,Pastry,Danish,4,346.55,1386.2,New
+T101986,17/04/2024,south point,Pastry,Danish,2,318.05,636.1,New
+T101987,20/04/2024,North Hub,Tea,Green Tea,3,186.56,559.68,Regular
+T101988,10/01/2024,Central,Pastry,Danish,2,265.38,530.76,Regular
+T101989,30/01/2024,South Point,Snacks,Cookie,2,192.48,384.96,New
+T101990,25/01/2024,Central,Tea,Black Tea,4,255.1,1020.4,Regular
+T101991,12/04/2024,North Hub,Pastry,Danish,3,163.55,490.65,Regular
+T101992,24/03/2024,south point,Coffee,Espresso,2,243.67,487.34,Regular
+T101993,05/01/2024,central,Sandwich,Chicken Sandwich,2,221.41,442.82,New
+T101994,05/03/2024,NORTH HUB,Sandwich,Cheese Sandwich,4,86.61,346.44,New
+T101995,03/04/2024,NORTH HUB,Sandwich,Veg Sandwich,4,293.49,1173.96,Regular
+T101996,18/02/2024,SOUTH POINT,Tea,Black Tea,2,83.21,166.42,New
+T101997,03/01/2024,north hub,Pastry,Muffin,4,159.15,636.6,Regular
+T101998,14/02/2024,North Hub,Tea,Black Tea,2,81.6,163.2,Regular
+T101999,14/01/2024,north hub,Snacks,Bagel,3,181.57,544.71,New
+T101156,28/03/2024,CENTRAL,Snacks,Bagel,4,305.87,1223.48,New
+T100237,12/03/2024,South Point,Sandwich,Veg Sandwich,1,94.43,94.43,New
+T100623,16/03/2024,South Point,Pastry,Muffin,2,314.26,628.52,Regular
+T101918,22/03/2024,SOUTH POINT,Tea,Black Tea,3,186.51,559.53,Regular
+T101501,18/03/2024,CENTRAL,Pastry,Muffin,4,266.03,1064.12,New
+T101636,01/04/2024,North Hub,Sandwich,Cheese Sandwich,1,114.21,114.21,Regular
+T101696,20/01/2024,central,Tea,Green Tea,1,281.49,281.49,New
+T101705,05/01/2024,central,Tea,Black Tea,4,309.5,1238.0,New
+T100093,18/01/2024,Central,Sandwich,Veg Sandwich,2,190.78,381.56,New
+T100325,08/02/2024,central,Coffee,Espresso,2,163.63,327.26,Regular
