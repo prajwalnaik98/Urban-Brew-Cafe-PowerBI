@@ -227,7 +227,7 @@ These measures respond dynamically to the Date, Outlet, and Product Category fil
 
 **Power BI Dashboard**
 
-![Sales Overview Dashboard](sales_overview_dashboard.png)
+![Sales Overview Dashboard](Screenshots/sales_overview_dashboard.png)
 
 ---
 
