@@ -1,6 +1,6 @@
 <div align="center">
 
-# Urban Brew Café – Sales Analytics Dashboard
+# Urban Brew Cafe – Sales Analytics Dashboard
 
 ### End-to-End Sales Analytics Project using Power BI, Power Query and DAX
 
