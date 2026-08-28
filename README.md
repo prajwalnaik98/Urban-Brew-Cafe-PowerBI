@@ -245,3 +245,7 @@ These measures respond dynamically to the Date, Outlet, and Product Category fil
 ## Author
 
 **Prajwal Naik**
+
+GitHub: [github.com/prajwalnaik98](https://github.com/prajwalnaik98)<br>
+LinkedIn: [linkedin.com/in/prajwal-naik-9362b0327](https://www.linkedin.com/in/prajwal-naik-9362b0327)
+
